@@ -13,49 +13,108 @@ url: 'http://localhost:8080'
 
 # ------------------------------------------------------------------------------
 # Title & Description
-title: New Deal Photography
-subtitle: The Works of Dorothea Lange and Walker Evans
-reading_line:
-short_title:
+title: Digitizing al-Andalus
+subtitle: The Madinat al-Zahrāʾ Capital and the Digital Study of Dispersed Umayyad Architecture
+reading_line: Madinat al-Zahrāʾ 3D Capital Digitization and Research Collaborative
+short_title: Digitizing al-Andalus
 
 description:
-  one_line:
-  full: "In the 1930s, during America's worst financial crises, the administration of President Franklin D. Roosevelt employed photographers to document the plight of everyday folk in the Great Depression in order to push forward with their New Deal programs. Documentary photographers Dorothea Lange and Walker Evans were prolific frontrunners of these efforts and their extraordinary photographs continue to endure today. Their artistic and documentary mastery and historical importance provide key insight into a monumental turning point in American history."
+  one_line: A digital catalogue and database exploring a 10th-century Umayyad marble capital.
+  full: |
+    This publication documents the Madinat al-Zahrāʾ 3D Capital Digitization and Research
+    Collaborative — a multi-institutional project using 3D scanning, virtual reality, and
+    digital storytelling to study and share a 10th-century Islamic capital from al-Andalus.
 
 # ------------------------------------------------------------------------------
 # Publication Details
 # ------------------------------------------------------------------------------
 
-pub_date: 2022-12-01 # YYYY-MM-DD
+pub_date: 2026-03-19 # YYYY-MM-DD
 language: en
-pub_type: book # book | journal-periodical | other
+pub_type: other # book | journal-periodical | other
 
 identifier:
   isbn:
 
 publisher:
-  - name: J. Paul Getty Trust
-    location: Los Angeles
-    url:
-    logo: logo-getty.png
+  - name: Meadows Museum, SMU
+    location: Dallas, TX
+    url: https://www.smu.edu/meadows
+  - name: Edith O'Donnell Institute of Art History, UT Dallas
+    location: Richardson, TX
+    url: https://arthistory.utdallas.edu/
 
 # ------------------------------------------------------------------------------
 # Contributors
 # ------------------------------------------------------------------------------
 
-contributor_as_it_appears:
+#contributor_as_it_appears:
 
 contributor:
-  - id: jkeller
+  - id: jlee
     type: primary
-    first_name: Judith
-    last_name: Keller
-    title: Senior Curator of Photographs
-    affiliation: J. Paul Getty Museum
-    bio: "Judith Keller joined the J. Paul Getty Museum in 1986 and since 2008 was an Associate Curator of Photographs. In 2010, she was named the Senior Curator of Photographs. Keller received her B.A. in Art History and a Masters in Museum Practice and Art History from the University of Michigan at Ann Arbor. She also completed course work for a Phd. in Art History at the University of Michigan. Prior to her tenure at the Getty, Keller worked at The University of Michigan Museum of Art (1979 – 1981) and at the Archer M. Huntington Art Gallery (now the Blanton Museum of Art) at The University of Texas, Austin, as Curator of Prints and Drawings."
-    url: https://news.getty.edu/judith-keller-named-senior-curator-photographs-at-j-paul-getty-museum.htm
-    image: contributors/judith-keller.jpg
-
+    first_name: Jonathan
+    last_name: Lee
+    title: Engineer & Publication Developer
+    affiliation: Edith O'Donnel Institute of Art History, UT Dallas
+    bio: "Placeholder bio for Jonathan"
+    url: https://www.linkedin.com/in/jonathan-lee-utdallas/
+    image: 
+  - id: caldrich
+    type: primary
+    first_name: Cristina
+    last_name: Aldrich
+    title: Project Lead & Investigator 
+    affiliation: Meadows Museum, SMU; PhD Candidate, Institue of Fine Arts, NYU
+    bio: "Placeholder bio for Cristina"
+    url: https://www.linkedin.com/in/cristina-aldrich-649b3b54/
+    image: 
+  - id: aalibhai
+    type: primary
+    first_name: Dr. Ali Asgar
+    last_name: Alibhai
+    title: Research Lead & Scholarly Advisor
+    affiliation: Edith O'Donnel Institute of Art History, UT Dallas
+    bio: "Placeholder bio for Ali"
+    url: 
+    image: 
+  - id: ashovlin
+    type: primary
+    first_name: Anna
+    last_name: Shovlin
+    title: Technology Lead & 3D Imaging Specialist
+    affiliation: UT Dallas
+    bio: "Placeholder bio for Anna"
+    url:
+    image: 
+  - id: lgalan
+    type: primary
+    first_name: Dr. Luis Rueda
+    last_name: Galan
+    title: Research contributor
+    affiliation: Post-Doctoral Fellow, Meadows Museum
+    bio: "Placeholder bio for Luis"
+    url:
+    image: 
+  - id: aficek
+    type: primary
+    first_name: Dr. Anna
+    last_name: Ficek
+    title: Project Facilitator
+    affiliation: Custard Institute for Spanish Art and Culture, SMU
+    bio: "Placeholder bio for Dr. Anna"
+    url:
+    image: 
+  - id: njaffer
+    type: primary
+    first_name: Nida
+    last_name: Jaffer
+    title: Previous Graduate Research Coordinator
+    affiliation: EODIAH, UT Dallas (now PhD student, Brown University)
+    bio: "Placeholder bio for Nida"
+    url:
+    image: 
+    
 # ------------------------------------------------------------------------------
 # Copright & License
 # ------------------------------------------------------------------------------
@@ -97,15 +156,15 @@ resource_link:
     url:
 
 # ------------------------------------------------------------------------------
-# Subjects
+# Subjects - used to have keywords here in type
 # ------------------------------------------------------------------------------
 
 subject:
-  - type: bisac
-    name: PHOTOGRAPHY / Subjects & Themes / Historical
-    identifer: PHO023100
-  - type: keywords
-    name: photography, black-and-white, great despression
+  - type: 
+    name: 
+    identifer: 
+  - type:
+    name: 
 
 # ------------------------------------------------------------------------------
 # Revision History
@@ -121,4 +180,4 @@ repository_url:
 # Promo Image
 # ------------------------------------------------------------------------------
 
-promo_image: static-cover.jpg
+promo_image: gibby.jpg

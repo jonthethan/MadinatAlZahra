@@ -1,0 +1,67 @@
+:root {
+  --primary-dark: #1B3A5C;
+  --accent-gold: #C9A84C;
+  --mid-blue: #2E6DA4;
+  --bg-warm: #FAF7F2;
+  --panel-light: #F5F0E8;
+  --body-text: #1A1A1A;
+  --muted-text: #555555;
+}
+
+/* Global text */
+body {
+  color: var(--body-text);
+  background-color: var(--bg-warm);
+}
+
+/* Page titles / major headings */
+.quire-page__header .title,
+.quire-page__header .subtitle,
+h1, h2, h3 {
+  color: var(--primary-dark);
+}
+
+/* Subheadings or emphasized section leads */
+h4, h5, h6,
+.lead-text {
+  color: var(--mid-blue);
+}
+
+/* Links */
+a {
+  color: var(--mid-blue);
+}
+
+a:hover,
+a:focus {
+  color: var(--accent-gold);
+}
+
+/* Captions / metadata / secondary labels */
+.figcaption,
+.q-figure__caption,
+.quire-page__content .content figure figcaption,
+.object-meta,
+.quire-page__content .label {
+  color: var(--muted-text);
+}
+
+/* Pull quotes */
+.pullquote,
+blockquote {
+  border-left: 4px solid var(--accent-gold);
+  padding-left: 1rem;
+}
+
+/* Metadata / info panels */
+.tombstone,
+.object-details,
+.metadata-panel,
+.side-by-side .quire-entry__metadata {
+  background-color: var(--panel-light);
+}
+
+/* Optional gold rule utility */
+.gold-rule {
+  border-top: 3px solid var(--accent-gold);
+}

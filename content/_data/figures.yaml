@@ -15,7 +15,7 @@ figure_list:
   - id: "fig-1"
     label: "Figure 1"
     src: figures/evans-legionnaire.jpg
-    caption: "Walker Evans. *[American Legionnaire]*, 1935."
+    caption: ":D"
     credit: "The J. Paul Getty Museum, Los Angeles"
     alt: "A man, from the chest up, in a decorated uniform turned to look at the camera. Other men in similar attire talk amongst one another in the background."
 
