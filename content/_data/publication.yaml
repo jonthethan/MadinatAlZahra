@@ -15,6 +15,8 @@ url: 'http://localhost:8080'
 # Title & Description
 title: Digitizing al-Andalus
 subtitle: The Madinat al-Zahrāʾ Capital and the Digital Study of Dispersed Umayyad Architecture
+cover_image: images/capital/covercapital.jpg
+cover_image_alt: The marble capital from Madinat al-Zahrāʾ, Meadows Museum, SMU
 reading_line: Madinat al-Zahrāʾ 3D Capital Digitization and Research Collaborative
 short_title: Digitizing al-Andalus
 

@@ -65,3 +65,150 @@ blockquote {
 .gold-rule {
   border-top: 3px solid var(--accent-gold);
 }
+/* CUSTOMIZED FILE
+   Cover page styling for Madinat al-Zahra project
+*/
+
+.custom-cover-page {
+  position: relative;
+}
+
+/* Make the splash area feel like the actual cover */
+.custom-cover-page .quire-page__header.hero,
+.custom-cover-page .hero,
+.custom-cover-page .quire-cover__hero {
+  position: relative;
+}
+
+/* Dark gradient overlay over the image area */
+.custom-cover-page .quire-page__header.hero::before,
+.custom-cover-page .hero::before,
+.custom-cover-page .quire-cover__hero::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(
+    to top,
+    rgba(27, 58, 92, 0.90) 0%,
+    rgba(27, 58, 92, 0.78) 35%,
+    rgba(27, 58, 92, 0.32) 68%,
+    rgba(27, 58, 92, 0.05) 100%
+  );
+  z-index: 1;
+  pointer-events: none;
+}
+
+/* Keep actual header content above overlay */
+.custom-cover-page .quire-page__header .container,
+.custom-cover-page .hero .container,
+.custom-cover-page .quire-cover__hero .container {
+  position: relative;
+  z-index: 2;
+}
+
+/* Title */
+.custom-cover-page .quire-page__header .title,
+.custom-cover-page .hero .title,
+.custom-cover-page .quire-cover__hero .title {
+  color: #ffffff;
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: clamp(2.8rem, 5.2vw, 4.8rem);
+  line-height: 1.08;
+  max-width: 14ch;
+  margin-bottom: 0.75rem;
+}
+
+/* Subtitle */
+.custom-cover-page .quire-page__header .subtitle,
+.custom-cover-page .hero .subtitle,
+.custom-cover-page .quire-cover__hero .subtitle {
+  color: #ffffff;
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: clamp(1.1rem, 2vw, 1.55rem);
+  line-height: 1.4;
+  max-width: 950px;
+  margin-bottom: 1.25rem;
+}
+
+/* Gold rule directly under title */
+.custom-cover-page .quire-page__header .title,
+.custom-cover-page .hero .title,
+.custom-cover-page .quire-cover__hero .title {
+  position: relative;
+  padding-bottom: 1rem;
+}
+
+.custom-cover-page .quire-page__header .title::after,
+.custom-cover-page .hero .title::after,
+.custom-cover-page .quire-cover__hero .title::after {
+  content: "";
+  display: block;
+  width: 200px;
+  height: 4px;
+  margin-top: 1rem;
+  background-color: var(--accent-gold);
+  border-radius: 2px;
+}
+
+/* Cream panel below hero for intro + logos */
+.custom-cover-panel {
+  background-color: var(--panel-light);
+  max-width: 1100px;
+  margin: -3rem auto 0 auto;
+  padding: 2rem 2rem 1.5rem 2rem;
+  position: relative;
+  z-index: 5;
+  box-shadow: 0 10px 24px rgba(0,0,0,0.08);
+}
+
+/* Lead text in the cream panel */
+.custom-cover-lead {
+  font-size: 1.15rem;
+  line-height: 1.6;
+  color: var(--body-text);
+  max-width: 900px;
+  margin: 0 0 1.5rem 0;
+}
+
+/* Logo row */
+.custom-cover-logos {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem 1.25rem;
+  align-items: center;
+}
+
+.custom-cover-logos img {
+  height: 44px;
+  width: auto;
+  object-fit: contain;
+  background: rgba(255,255,255,0.95);
+  padding: 0.35rem 0.55rem;
+  border-radius: 4px;
+}
+
+/* If you later want gold line accents around figures */
+.custom-cover-page .q-figure {
+  border-top: 2px solid var(--accent-gold);
+  border-bottom: 2px solid var(--accent-gold);
+  padding-top: 0.75rem;
+  padding-bottom: 0.75rem;
+}
+
+@media (max-width: 768px) {
+  .custom-cover-page .quire-page__header .title::after,
+  .custom-cover-page .hero .title::after,
+  .custom-cover-page .quire-cover__hero .title::after {
+    width: 120px;
+    height: 3px;
+  }
+
+  .custom-cover-panel {
+    margin-top: -1.5rem;
+    padding: 1.25rem;
+  }
+
+  .custom-cover-logos img {
+    height: 34px;
+  }
+}

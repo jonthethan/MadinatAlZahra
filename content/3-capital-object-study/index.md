@@ -1,7 +1,7 @@
 ---
 title: Capital Object Study
 layout: page
-order: 6
+order: 7
 ---
 
 Capital Object Study!
