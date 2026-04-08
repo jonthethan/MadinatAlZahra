@@ -53,24 +53,32 @@ publisher:
 #contributor_as_it_appears:
 
 contributor:
+  - id: test
+    type: primary
+    first_name: Test
+    last_name: Contributor
+    title: Title text
+    affiliation: Affiliation text
+    bio: "We can put text here! This is technically the contributor section."
+    url: https://www.linkedin.com/in/jonathan-lee-utdallas/
   - id: jlee
     type: primary
     first_name: Jonathan
     last_name: Lee
     title: Engineer & Publication Developer
     affiliation: Edith O'Donnel Institute of Art History, UT Dallas
-    bio: "Placeholder bio for Jonathan"
+    bio: "Jonathan Lee is a current full-time master’s student studying computer engineering at the University of Texas at Dallas. He received his B.S. in Computer Engineering in May 2025. Additionally, he has completed an engineering internship with Texas Instruments in summer 2025 and will be a returning intern in summer 2026. He loves being able to apply his technical skills to the art history world and bridge the gap between art history and technical presentation. In his free time, he loves holding his cat, gaming, and playing piano."
     url: https://www.linkedin.com/in/jonathan-lee-utdallas/
-    image: 
+    image: contributors/jonathanlee.jpg
   - id: caldrich
     type: primary
     first_name: Cristina
     last_name: Aldrich
     title: Project Lead & Investigator 
     affiliation: Meadows Museum, SMU; PhD Candidate, Institue of Fine Arts, NYU
-    bio: "Placeholder bio for Cristina"
+    bio: "Cristina Aldrich is the Center for Spain in America (CSA) Fellow at the Meadows Museum, SMU. She recently organized an exhibition exploring the reception of Islamic art in 19th-century Spain. Her dissertation focuses on polychrome sculptures of the Virgin and Child in Castile and León, analyzing their role in shaping identities in both secular and monastic contexts. Additionally, she leads the Digital Capital: Madinat al-Zahra’ Research Collaborative, a cross-institutional project that combines 3D scanning, digital humanities, and art-historical research on a tenth-century Umayyad capital. She also conducts research on Walter S. Cook as part of a larger collaborative project on his legacy in the historiography of Hispanic art. Previously, Cristina was the Marica and Jan Vilcek Curatorial Fellow in Medieval Art at The Met and has taught at NYU. She holds a bachelor's degree from Cornell University and a master's degree from the Institute of Fine Arts at NYU, and she has also worked at the Hispanic Society Museum & Library."
     url: https://www.linkedin.com/in/cristina-aldrich-649b3b54/
-    image: 
+    image: contributors/cristinaaldrich.png
   - id: aalibhai
     type: primary
     first_name: Dr. Ali Asgar
@@ -86,36 +94,45 @@ contributor:
     last_name: Shovlin
     title: Technology Lead & 3D Imaging Specialist
     affiliation: UT Dallas
-    bio: "Placeholder bio for Anna"
+    bio: "Anna Marisol Shovlin is a graduate student at the Edith O’Donnell Institute where she is pursuing an MA in Art History. Her research explores ancient and early medieval domestic art and architecture in Italy and Spain. She holds a BA from the University of Texas at Dallas in Arts, Technology, and Emerging Communication with a concentration in 3D Animation and Video Game Design. She now works as an archaeologist and art historian combining traditional archaeological methodologies with innovative digital advancements such as 3D modeling, LiDar and photogrammetry scanning, and aerial mapping. Her field work includes research with The Oplontis Project on their archaeological sites near Pompeii. With a passion for digital cultural heritage and preservation, her work aims to utilize a multidisciplinary approach to art historical research."
     url:
-    image: 
+    image: contributors/annashovlin.png
   - id: lgalan
     type: primary
     first_name: Dr. Luis Rueda
     last_name: Galan
     title: Research contributor
     affiliation: Post-Doctoral Fellow, Meadows Museum
-    bio: "Placeholder bio for Luis"
+    bio: "Luis Rueda Galán is the Mellon Postdoctoral Fellow at the Meadows Museum, Southern Methodist University. He obtained his Ph.D. in Art History (2021) from the École Pratique des Hautes Études-PSL in Paris (France) and the University of Jaén (Spain) with a dissertation on the conversion of mosques in medieval Iberia. His scholarly interests concentrate on transcultural and interreligious phenomena in the arts, particularly the legacy of al-Andalus in the rest of the Mediterranean and the image of Jerusalem and ideal reconstructions of the Temple of Solomon. He is also an expert on the influence of Leonardo da Vinci in early modern Spanish art. Rueda has been Juan de la Cierva postdoctoral fellow at the Institute of History in Madrid-CSIC, and visiting fellow at the Houghton Library-Harvard University, the French Institute for Oriental Archaeology in Cairo-IFAO, the Max Planck Institute for Art History in Florence-KHI, the School of Architecture-University of Florence and the Pontifical Gregorian University in Rome. Rueda has received a number of international research grants and distinctions, including the 2024 Gridley McKim-Smith Award from the Society for Iberian Global Art (SIGA) for an exceptional article by an early-career scholar."
     url:
-    image: 
+    image: contributors/luisrueda.png
   - id: aficek
     type: primary
     first_name: Dr. Anna
     last_name: Ficek
     title: Project Facilitator
     affiliation: Custard Institute for Spanish Art and Culture, SMU
-    bio: "Placeholder bio for Dr. Anna"
+    bio: "Agnieszka Anna Ficek is a Postdoctoral Fellow at the Meadows Museum’s Custard Institute for Spanish Art and Culture at Southern Methodist University and a Affiliated Researcher at the Edith O’Donnell Institute of Art History at the University of Texas at Dallas. She received her PhD in Art History from the City University of New York’s Graduate Center (2023). She is currently working on her first book project, From Allegory to Revolution: Latin America in the Early Modern French Imagination. Her research has been supported by grants, fellowships, and prizes from the Decorative Arts Trust, the Social Sciences Research Council, the German Center for Art History in Paris, the John Carter Brown Library, the Houghton Library at Harvard University, and the Huntington Library."
     url:
-    image: 
+    image: contributors/annaficek.png
   - id: njaffer
     type: primary
     first_name: Nida
     last_name: Jaffer
     title: Previous Graduate Research Coordinator
     affiliation: EODIAH, UT Dallas (now PhD student, Brown University)
-    bio: "Placeholder bio for Nida"
+    bio: "Nida Jaffer studies the art and architecture of the medieval Islamic and Mediterranean worlds. Her current research centers on the eco-phenomenology of Islamic art and the materialization of the human-nature relationship in art and architecture. Nida earned her BA in History and MA in Art History from the University of Texas at Dallas at the Edith O’Donnell Institute of Art History. In parallel with her academic work, she has been working on digital humanities initiatives such as “The Muqaddimah,” an educational video game focused on the Great Mosque of Kairouan, and a documentary on medieval Fez, which integrates traditional filmmaking with digital animation. She is a founding member of the MENARAH initiative, a digital research hub dedicated to Islamic art and architecture, which integrates 3D modeling, game design, and documentary filmmaking into the study and preservation of material culture."
     url:
-    image: 
+    image: contributors/nidajaffer.png
+  - id: devans
+    type: primary
+    first_name: Dallin
+    last_name: Evans
+    title: Research Contributor
+    affiliation: PhD Candidate, Rice University
+    bio: "Dallin Evans is a PhD candidate at Rice University specializing in Caliphal architecture in tenth-century Islamic Spain. Trained as a practicing architect, he uses his expertise to analyze his areas of research. While earning his master’s in architecture, he studied Renaissance and Classical art and architecture at Syracuse University’s Florence campus, where he also curated several exhibitions. More recently, he has collaborated with Glair Anderson in the DLIVCC by creating digital models of archaeological findings at al-Rummaniyya, a villa near Cordoba Spain. Additionally, he has created drawings in publications for his advisors Farshid Emami and Sophie Crawford-Brown. As the 2024-25 Camfield Fellow at the Museum of Fine Art Houston, he created digital animations to accompany objects in the museum’s Islamic galleries. He recently co-organized a graduate conference on materiality at Rice, and a yearlong series of programs for “Archeology Now” on al-Andalus. He has presented his work at conferences across North America and Europe, supported by departmental and external awards."
+    url:
+    image: contributors/dallinevans.png
     
 # ------------------------------------------------------------------------------
 # Copright & License

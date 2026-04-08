@@ -2,7 +2,7 @@
 title: Preface
 subtitle: A Tale of Two Photographers
 layout: page
-order: 4
+order: 101
 ---
 
 {% figure 'fig-1' %}

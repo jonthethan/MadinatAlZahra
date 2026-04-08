@@ -211,4 +211,116 @@ blockquote {
   .custom-cover-logos img {
     height: 34px;
   }
+
 }
+  .centered-heading {
+  text-align: center;
+}
+
+.contributors-logos {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(160px, 1fr));
+  justify-items: center;                 
+  gap: 2rem;
+  margin: 2rem 0;
+  padding: 1.5rem 0;
+  border-top: 1px solid #C9A84C;
+  border-bottom: 1px solid #C9A84C;
+}
+
+.contributor-logo {
+  text-align: center;
+}
+
+.contributor-logo a {
+  display: block;
+  text-decoration: none;
+}
+
+.contributor-logo img {
+  display: block;
+  width: 140px;
+  height: auto;
+  margin: 0 auto;
+  background: white;
+  vertical-align: bottom; /* ← ADD THIS */
+}
+
+.contributor-logo p {
+  margin-top: 0.75rem;
+  color: #1B3A5C;
+  font-size: 1rem;
+}
+
+.centered-heading {
+  text-align: center;
+  font-style: italic;
+}
+
+/* =========================================
+   INTRODUCTION PAGE STYLES
+   ========================================= */
+
+/* 1. Subtle Background Texture & Color */
+body {
+    background-color: #FAF7F2;
+    /* A very faint, subtle dot pattern to give a geometric feel */
+    background-image: url("data:image/svg+xml,%3Csvg width='20' height='20' viewBox='0 0 20 20' xmlns='http://www.w3.org/2000/svg'%3E%3Cg fill='%23e6e0d4' fill-opacity='0.4' fill-rule='evenodd'%3E%3Ccircle cx='3' cy='3' r='1.5'/%3E%3C/g%3E%3C/svg%3E");
+}
+
+/* 3. Bold Lead Text */
+.lead-text {
+    font-size: 1.2rem; /* Larger type */
+    font-weight: 700;
+    line-height: 1.4;
+    color: #222;
+    margin-bottom: 2.5rem;
+    text-align: center; /* Change to 'center' if you prefer */
+}
+
+/* 4. Kufic Inscription Box - Centered Version */
+.kufic-sidebar {
+    width: 100%; 
+    margin: 2rem 0; /* Vertical spacing */
+    padding: 2rem;
+    background-color: #ffffff;
+    /* Removed border-left to allow for a centered look */
+    border-top: 2px solid var(--accent-gold); 
+    border-bottom: 2px solid var(--accent-gold);
+    box-shadow: 0 2px 10px rgba(0,0,0,0.05);
+    text-align: center; /* This centers the text inside */
+}
+
+.kufic-sidebar blockquote {
+    margin: 0 auto;
+    font-size: 1.25rem; /* Slightly larger for the Arabic/Translation */
+    line-height: 1.6;
+    border-left: none !important; /* Removes the gold line from the left */
+    padding-left: 0 !important;
+}
+
+.kufic-sidebar cite {
+    display: block;
+    margin-top: 1.5rem;
+    font-size: 0.95rem;
+    color: var(--muted-text);
+    text-align: center; /* Centers the attribution */
+    font-style: normal;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
+
+/* Responsive adjustment so the sidebar doesn't get crushed on mobile phones */
+@media (max-width: 768px) {
+    .kufic-sidebar {
+        float: none;
+        width: 100%;
+        margin: 1.5rem 0;
+    }
+    
+    .hero-image-wrapper {
+        width: 100vw;
+        margin-left: -50vw;
+        margin-right: -50vw;
+    }
+} 

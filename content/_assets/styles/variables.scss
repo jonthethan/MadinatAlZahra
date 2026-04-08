@@ -13,7 +13,7 @@
 // need to manually copy all your customizations (and content) into the new project."
 //
 
-$accent-color: #2E6DA4; //#1B3A5C
+$accent-color: #C9A84C ; 
 $content-background-color: #FAF7F2; // main text area background color
 $secondary-background-color: #F5F0E8; // only for modern theme
 
@@ -96,7 +96,7 @@ $quire-navigation-font: null; // navbar and next/prev buttons
   $quire-headings-font: $times-serif !default;
   $quire-footnotes-font: $noto-sans !default;
   $quire-navigation-font: $noto-sans !default;
-  $accent-color: #2E6DA4 !default;
+  $accent-color: #C45A40 !default;
   $content-background-color: #FAF7F2 !default;
   $secondary-background-color: #F5F0E8 !default;
 } @else {
@@ -105,7 +105,7 @@ $quire-navigation-font: null; // navbar and next/prev buttons
   $quire-headings-font: $ibm-sans !default;
   $quire-footnotes-font: $noto-serif !default;
   $quire-navigation-font: $noto-sans !default;
-  $accent-color: #2E6DA4 !default;
+  $accent-color: #C45A40 !default;
   $content-background-color: #FAF7F2 !default;
   $secondary-background-color: #F5F0E8 !default;
 }
@@ -116,7 +116,7 @@ $navbar-height: 3rem;
 $quire-progress-bar-height: 2px;
 
 // Declare navbar colors
-$quire-navbar-color: #1B3A5C;
+$quire-navbar-color: #6B2515;
 $quire-navbar-hover-color: darken($quire-navbar-color, 5%);
 $quire-navbar-text-color: $white;
 
@@ -139,8 +139,8 @@ $quire-navbar-text-color: $white;
 // Cover colors
 // -----------------------------------------------------------------------------
 // Declare cover gradient colors (make them the same for a solid background)
-$quire-cover-color-1: #1B3A5C;
-$quire-cover-color-2: #2E6DA4;
+$quire-cover-color-1: #6B2515;
+$quire-cover-color-2: #C45A40;
 
 @if $theme == classic {
   $quire-cover-color-1: $accent-color !default;
