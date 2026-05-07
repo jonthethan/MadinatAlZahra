@@ -132,3 +132,15 @@ figure_list:
     caption: "Walker Evans, * [William Edward (Bud) Fields, A Cotton Sharecropper, Hale County, Alabama]/[Bud Woods, Tenant Farmer]*, 1936."
     credit: The J. Paul Getty Museum, Los Angeles
     alt: "Portrait of a bare-chested moustached man, with a patterned bandana draped over his shoulders, photographed from the chest up, staring straight into the camera."
+
+  - id: "rotating-capital"
+    src: figures/rotating-capital/ezgif-frame-001.jpg
+    label: "Fig. 1"
+    caption: "360-degree view of the capital from the SMU Meadows Museum"
+    sequences: 
+      - id: "figures/rotating-capital/"
+        behavior:
+        - continuous
+        - sequence
+        regex: /ezgif-frame-\d{3}\.jpg/
+        viewing_direction: "right-to-left"

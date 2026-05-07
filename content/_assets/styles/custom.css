@@ -324,3 +324,59 @@ body {
         margin-right: -50vw;
     }
 } 
+
+/* =========================================
+   FULL WIDTH STORYMAP BREAKOUT
+   ========================================= */
+.full-width-map {
+    width: 98vw; /* Takes up 98% of the screen width */
+    position: relative;
+    left: 50%;
+    right: 50%;
+    margin-left: -49vw; /* Centers the breakout */
+    margin-right: -49vw;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}
+
+.full-width-map iframe {
+    width: 100%;
+    height: 80vh; /* Responsive height: 80% of the screen height */
+    border: 1px solid #ddd;
+    border-radius: 4px;
+}
+
+/* Ensure it stays readable on mobile */
+@media (max-width: 768px) {
+    .full-width-map {
+        width: 100vw;
+        margin-left: -50vw;
+        margin-right: -50vw;
+    }
+    
+    .full-width-map iframe {
+        height: 60vh; /* Slightly shorter on mobile for better scrolling */
+    }
+}
+
+/* Break out of Quire text column */
+.matterport-wrapper {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+
+.embed-container.matterport {
+  width: 100%;
+  max-width: 900px;
+  border: 3px solid var(--accent-gold);
+  border-radius: 4px;
+  overflow: hidden;
+}
+
+/* iframe */
+.embed-container.matterport iframe {
+  width: 100%;
+  height: 480px;
+  display: block;
+}

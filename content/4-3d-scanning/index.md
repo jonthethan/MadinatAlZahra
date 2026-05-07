@@ -1,7 +1,7 @@
 ---
 title: 3D Scanning
 layout: page
-order: 8
+order: 40
 ---
 
 3D Scanning!

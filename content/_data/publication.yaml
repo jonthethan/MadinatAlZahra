@@ -15,7 +15,7 @@ url: 'http://localhost:8080'
 # Title & Description
 title: Digitizing al-Andalus
 subtitle: The Madinat al-Zahrāʾ Capital and the Digital Study of Dispersed Umayyad Architecture
-cover_image: images/capital/covercapital.jpg
+cover_image: capital/covercapital.jpeg
 cover_image_alt: The marble capital from Madinat al-Zahrāʾ, Meadows Museum, SMU
 reading_line: Madinat al-Zahrāʾ 3D Capital Digitization and Research Collaborative
 short_title: Digitizing al-Andalus
@@ -53,21 +53,13 @@ publisher:
 #contributor_as_it_appears:
 
 contributor:
-  - id: test
-    type: primary
-    first_name: Test
-    last_name: Contributor
-    title: Title text
-    affiliation: Affiliation text
-    bio: "We can put text here! This is technically the contributor section."
-    url: https://www.linkedin.com/in/jonathan-lee-utdallas/
   - id: jlee
     type: primary
     first_name: Jonathan
     last_name: Lee
     title: Engineer & Publication Developer
     affiliation: Edith O'Donnel Institute of Art History, UT Dallas
-    bio: "Jonathan Lee is a current full-time master’s student studying computer engineering at the University of Texas at Dallas. He received his B.S. in Computer Engineering in May 2025. Additionally, he has completed an engineering internship with Texas Instruments in summer 2025 and will be a returning intern in summer 2026. He loves being able to apply his technical skills to the art history world and bridge the gap between art history and technical presentation. In his free time, he loves holding his cat, gaming, and playing piano."
+    bio: "Jonathan Lee is a current full-time master’s student studying computer engineering at the University of Texas at Dallas. He received his B.S. in Computer Engineering in May 2025. Additionally, he has completed an engineering internship with Texas Instruments in summer 2025 and will be a returning intern in summer 2026. He loves being able to apply his technical skills to the art history world and bridge the gap between art history and technical presentation, serving as the primary designer and programmer for this publication."
     url: https://www.linkedin.com/in/jonathan-lee-utdallas/
     image: contributors/jonathanlee.jpg
   - id: caldrich
@@ -85,9 +77,9 @@ contributor:
     last_name: Alibhai
     title: Research Lead & Scholarly Advisor
     affiliation: Edith O'Donnel Institute of Art History, UT Dallas
-    bio: "Placeholder bio for Ali"
-    url: 
-    image: 
+    bio: "Ali Asgar H. Alibhai is an Assistant Professor of Islamic Art History and Material Culture at the University of Texas at Dallas and founder of the MENARAH Initiative (Middle Eastern and North African Research of Art and History), a digital research lab that develops projects, archives, and public programming connecting the study of Middle Eastern and North African art and history with broader audiences through technology and storytelling. His research focuses on medieval Islamic art and architecture across the Mediterranean, with an emphasis on cross-cultural exchange, digital humanities, and innovative approaches to teaching and public scholarship."
+    url: https://profiles.utdallas.edu/aliasgar.alibhai
+    image: contributors/alialibhai.jpg
   - id: ashovlin
     type: primary
     first_name: Anna
@@ -143,7 +135,7 @@ copyright: © 2022 J. Paul Getty Trust
 license:
   name: Creative Commons Attribution 4.0 International License
   abbreviation: CC BY
-  url: https://creativecommons.org/licenses/by/4.0/
+  url: https://creativecommons.org/licenses/by/4.0/ib
   scope: full # full | text-only | some-exceptions
 
 # ------------------------------------------------------------------------------
@@ -160,7 +152,7 @@ resource_link:
     name: EPUB
     media_type: application/epub+zip
     link_relation: alternate
-    url: /_assets/downloads/output.epub
+    url: /_assets/downloads/epubjs.epub
   - type: footer-link
     name: About
     link_relation: about
@@ -199,4 +191,4 @@ repository_url:
 # Promo Image
 # ------------------------------------------------------------------------------
 
-promo_image: gibby.jpg
+promo_image: jinx.jpg

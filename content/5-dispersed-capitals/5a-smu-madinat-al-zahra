@@ -1,0 +1,16 @@
+---
+title: Dispersed Capitals - SMU
+layout: essay
+order: 51
+---
+
+## Database Entry Structure (per capital)
+Each capital in the database gets its own Quire entry page. Create a subdirectory for each institution. Use Quire's object entry type with a consistent tombstone structure. See quire doc and quire documentation for more info. 
+
+## Suggested Initial Database Entries
+Begin with capitals for which good photographic and provenance documentation exists. Expand as the project develops. Suggested initial entries:
+▸	Meadows Museum, SMU, Dallas (MM.96.01) — the primary object of study (already documented in Section 3)
+▸	Museo Arqueológico Nacional, Madrid — Bugella Altamirano (2018) documents several Cordoban Islamic capitals in this collection
+▸	Conjunto Arqueológico de Medina Azahara, Córdoba — in-situ or excavated capitals held at the site museum
+▸	[Additional entries to be identified by research team — placeholder entries can be created now and filled in as research expands. Based on the team’s ArcGIS StoryMap research, known institutions holding Madinat al-Zahrāʾ capitals include: the Victoria & Albert Museum (London); the Metropolitan Museum of Art (New York); the Museum of Fine Arts (Boston); the Louvre (Paris); the Musée de Cluny (Paris); and institutions in Spain, North Africa, and the Middle East. The team’s ArcGIS StoryMap ‘Madinat al Zahra Capital Locations’ (produced by Cristina Aldrich) maps these collections globally and should serve as the master reference for database expansion.]
+

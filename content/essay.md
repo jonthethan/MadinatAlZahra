@@ -3,7 +3,7 @@ label: I
 title: We can put an essay reference here!
 subtitle:
 layout: essay
-order: 30
+order: 61
 classes:
   - page-one
 contributor:

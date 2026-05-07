@@ -1,7 +1,7 @@
 ---
 title: Contents
 layout: table-of-contents
-order: 2
-presentation: list
+order: 9
+presentation: grid
 search: false
 ---

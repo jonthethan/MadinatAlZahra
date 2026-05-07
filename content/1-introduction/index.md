@@ -4,10 +4,7 @@ title: Introduction
 subtitle: About the Project
 layout: essay
 byline_format: name-title
-order: 5
-contributor:
-  - id: jlee
-  - id: test
+order: 10
 ---
 
 {% figure 'fig-capital-hero' %}
@@ -41,4 +38,4 @@ This is the first page a reader encounters after the cover. It should orient the
 ---
 
 ## Contributors
-{% contributors context=pageContributors format='bio' %}
+{% contributors context=publicationContributors format='name-title' %}
