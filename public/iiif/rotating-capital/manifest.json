@@ -1,6 +1,6 @@
 {
   "@context": "http://iiif.io/api/presentation/3/context.json",
-  "id": "http://localhost:8080/iiif/rotating-capital/manifest.json",
+  "id": "https://github.com/jonthethan/MadinatAlZahra/iiif/rotating-capital/manifest.json",
   "type": "Manifest",
   "behavior": [
     [
@@ -15,22 +15,22 @@
   },
   "items": [
     {
-      "id": "http://localhost:8080/iiif/rotating-capital/canvas/ezgif-frame-001",
+      "id": "https://github.com/jonthethan/MadinatAlZahra/iiif/rotating-capital/canvas/ezgif-frame-001",
       "type": "Canvas",
       "height": 2048,
       "width": 2048,
       "items": [
         {
-          "id": "http://localhost:8080/iiif/rotating-capital/canvas/ezgif-frame-001/annotation-page",
+          "id": "https://github.com/jonthethan/MadinatAlZahra/iiif/rotating-capital/canvas/ezgif-frame-001/annotation-page",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "http://localhost:8080/iiif/rotating-capital/canvas/ezgif-frame-001/annotation-page/ezgif-frame-001",
+              "id": "https://github.com/jonthethan/MadinatAlZahra/iiif/rotating-capital/canvas/ezgif-frame-001/annotation-page/ezgif-frame-001",
               "motivation": "painting",
-              "target": "http://localhost:8080/iiif/rotating-capital/canvas/ezgif-frame-001",
+              "target": "https://github.com/jonthethan/MadinatAlZahra/iiif/rotating-capital/canvas/ezgif-frame-001",
               "type": "Annotation",
               "body": {
-                "id": "http://localhost:8080/iiif/rotating-capital/ezgif-frame-001.jpg",
+                "id": "https://github.com/jonthethan/MadinatAlZahra/iiif/rotating-capital/ezgif-frame-001.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 2048,
@@ -47,22 +47,22 @@
       ]
     },
     {
-      "id": "http://localhost:8080/iiif/rotating-capital/canvas/ezgif-frame-005",
+      "id": "https://github.com/jonthethan/MadinatAlZahra/iiif/rotating-capital/canvas/ezgif-frame-005",
       "type": "Canvas",
       "height": 2048,
       "width": 2048,
       "items": [
         {
-          "id": "http://localhost:8080/iiif/rotating-capital/canvas/ezgif-frame-005/annotation-page",
+          "id": "https://github.com/jonthethan/MadinatAlZahra/iiif/rotating-capital/canvas/ezgif-frame-005/annotation-page",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "http://localhost:8080/iiif/rotating-capital/canvas/ezgif-frame-005/annotation-page/ezgif-frame-005",
+              "id": "https://github.com/jonthethan/MadinatAlZahra/iiif/rotating-capital/canvas/ezgif-frame-005/annotation-page/ezgif-frame-005",
               "motivation": "painting",
-              "target": "http://localhost:8080/iiif/rotating-capital/canvas/ezgif-frame-005",
+              "target": "https://github.com/jonthethan/MadinatAlZahra/iiif/rotating-capital/canvas/ezgif-frame-005",
               "type": "Annotation",
               "body": {
-                "id": "http://localhost:8080/iiif/rotating-capital/ezgif-frame-005.jpg",
+                "id": "https://github.com/jonthethan/MadinatAlZahra/iiif/rotating-capital/ezgif-frame-005.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 2048,
@@ -79,22 +79,22 @@
       ]
     },
     {
-      "id": "http://localhost:8080/iiif/rotating-capital/canvas/ezgif-frame-008",
+      "id": "https://github.com/jonthethan/MadinatAlZahra/iiif/rotating-capital/canvas/ezgif-frame-008",
       "type": "Canvas",
       "height": 2048,
       "width": 2048,
       "items": [
         {
-          "id": "http://localhost:8080/iiif/rotating-capital/canvas/ezgif-frame-008/annotation-page",
+          "id": "https://github.com/jonthethan/MadinatAlZahra/iiif/rotating-capital/canvas/ezgif-frame-008/annotation-page",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "http://localhost:8080/iiif/rotating-capital/canvas/ezgif-frame-008/annotation-page/ezgif-frame-008",
+              "id": "https://github.com/jonthethan/MadinatAlZahra/iiif/rotating-capital/canvas/ezgif-frame-008/annotation-page/ezgif-frame-008",
               "motivation": "painting",
-              "target": "http://localhost:8080/iiif/rotating-capital/canvas/ezgif-frame-008",
+              "target": "https://github.com/jonthethan/MadinatAlZahra/iiif/rotating-capital/canvas/ezgif-frame-008",
               "type": "Annotation",
               "body": {
-                "id": "http://localhost:8080/iiif/rotating-capital/ezgif-frame-008.jpg",
+                "id": "https://github.com/jonthethan/MadinatAlZahra/iiif/rotating-capital/ezgif-frame-008.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 2048,
@@ -111,22 +111,22 @@
       ]
     },
     {
-      "id": "http://localhost:8080/iiif/rotating-capital/canvas/ezgif-frame-010",
+      "id": "https://github.com/jonthethan/MadinatAlZahra/iiif/rotating-capital/canvas/ezgif-frame-010",
       "type": "Canvas",
       "height": 2048,
       "width": 2048,
       "items": [
         {
-          "id": "http://localhost:8080/iiif/rotating-capital/canvas/ezgif-frame-010/annotation-page",
+          "id": "https://github.com/jonthethan/MadinatAlZahra/iiif/rotating-capital/canvas/ezgif-frame-010/annotation-page",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "http://localhost:8080/iiif/rotating-capital/canvas/ezgif-frame-010/annotation-page/ezgif-frame-010",
+              "id": "https://github.com/jonthethan/MadinatAlZahra/iiif/rotating-capital/canvas/ezgif-frame-010/annotation-page/ezgif-frame-010",
               "motivation": "painting",
-              "target": "http://localhost:8080/iiif/rotating-capital/canvas/ezgif-frame-010",
+              "target": "https://github.com/jonthethan/MadinatAlZahra/iiif/rotating-capital/canvas/ezgif-frame-010",
               "type": "Annotation",
               "body": {
-                "id": "http://localhost:8080/iiif/rotating-capital/ezgif-frame-010.jpg",
+                "id": "https://github.com/jonthethan/MadinatAlZahra/iiif/rotating-capital/ezgif-frame-010.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 2048,
@@ -143,22 +143,22 @@
       ]
     },
     {
-      "id": "http://localhost:8080/iiif/rotating-capital/canvas/ezgif-frame-013",
+      "id": "https://github.com/jonthethan/MadinatAlZahra/iiif/rotating-capital/canvas/ezgif-frame-013",
       "type": "Canvas",
       "height": 2048,
       "width": 2048,
       "items": [
         {
-          "id": "http://localhost:8080/iiif/rotating-capital/canvas/ezgif-frame-013/annotation-page",
+          "id": "https://github.com/jonthethan/MadinatAlZahra/iiif/rotating-capital/canvas/ezgif-frame-013/annotation-page",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "http://localhost:8080/iiif/rotating-capital/canvas/ezgif-frame-013/annotation-page/ezgif-frame-013",
+              "id": "https://github.com/jonthethan/MadinatAlZahra/iiif/rotating-capital/canvas/ezgif-frame-013/annotation-page/ezgif-frame-013",
               "motivation": "painting",
-              "target": "http://localhost:8080/iiif/rotating-capital/canvas/ezgif-frame-013",
+              "target": "https://github.com/jonthethan/MadinatAlZahra/iiif/rotating-capital/canvas/ezgif-frame-013",
               "type": "Annotation",
               "body": {
-                "id": "http://localhost:8080/iiif/rotating-capital/ezgif-frame-013.jpg",
+                "id": "https://github.com/jonthethan/MadinatAlZahra/iiif/rotating-capital/ezgif-frame-013.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 2048,
@@ -175,22 +175,22 @@
       ]
     },
     {
-      "id": "http://localhost:8080/iiif/rotating-capital/canvas/ezgif-frame-015",
+      "id": "https://github.com/jonthethan/MadinatAlZahra/iiif/rotating-capital/canvas/ezgif-frame-015",
       "type": "Canvas",
       "height": 2048,
       "width": 2048,
       "items": [
         {
-          "id": "http://localhost:8080/iiif/rotating-capital/canvas/ezgif-frame-015/annotation-page",
+          "id": "https://github.com/jonthethan/MadinatAlZahra/iiif/rotating-capital/canvas/ezgif-frame-015/annotation-page",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "http://localhost:8080/iiif/rotating-capital/canvas/ezgif-frame-015/annotation-page/ezgif-frame-015",
+              "id": "https://github.com/jonthethan/MadinatAlZahra/iiif/rotating-capital/canvas/ezgif-frame-015/annotation-page/ezgif-frame-015",
               "motivation": "painting",
-              "target": "http://localhost:8080/iiif/rotating-capital/canvas/ezgif-frame-015",
+              "target": "https://github.com/jonthethan/MadinatAlZahra/iiif/rotating-capital/canvas/ezgif-frame-015",
               "type": "Annotation",
               "body": {
-                "id": "http://localhost:8080/iiif/rotating-capital/ezgif-frame-015.jpg",
+                "id": "https://github.com/jonthethan/MadinatAlZahra/iiif/rotating-capital/ezgif-frame-015.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 2048,
@@ -207,22 +207,22 @@
       ]
     },
     {
-      "id": "http://localhost:8080/iiif/rotating-capital/canvas/ezgif-frame-018",
+      "id": "https://github.com/jonthethan/MadinatAlZahra/iiif/rotating-capital/canvas/ezgif-frame-018",
       "type": "Canvas",
       "height": 2048,
       "width": 2048,
       "items": [
         {
-          "id": "http://localhost:8080/iiif/rotating-capital/canvas/ezgif-frame-018/annotation-page",
+          "id": "https://github.com/jonthethan/MadinatAlZahra/iiif/rotating-capital/canvas/ezgif-frame-018/annotation-page",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "http://localhost:8080/iiif/rotating-capital/canvas/ezgif-frame-018/annotation-page/ezgif-frame-018",
+              "id": "https://github.com/jonthethan/MadinatAlZahra/iiif/rotating-capital/canvas/ezgif-frame-018/annotation-page/ezgif-frame-018",
               "motivation": "painting",
-              "target": "http://localhost:8080/iiif/rotating-capital/canvas/ezgif-frame-018",
+              "target": "https://github.com/jonthethan/MadinatAlZahra/iiif/rotating-capital/canvas/ezgif-frame-018",
               "type": "Annotation",
               "body": {
-                "id": "http://localhost:8080/iiif/rotating-capital/ezgif-frame-018.jpg",
+                "id": "https://github.com/jonthethan/MadinatAlZahra/iiif/rotating-capital/ezgif-frame-018.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 2048,
@@ -239,22 +239,22 @@
       ]
     },
     {
-      "id": "http://localhost:8080/iiif/rotating-capital/canvas/ezgif-frame-020",
+      "id": "https://github.com/jonthethan/MadinatAlZahra/iiif/rotating-capital/canvas/ezgif-frame-020",
       "type": "Canvas",
       "height": 2048,
       "width": 2048,
       "items": [
         {
-          "id": "http://localhost:8080/iiif/rotating-capital/canvas/ezgif-frame-020/annotation-page",
+          "id": "https://github.com/jonthethan/MadinatAlZahra/iiif/rotating-capital/canvas/ezgif-frame-020/annotation-page",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "http://localhost:8080/iiif/rotating-capital/canvas/ezgif-frame-020/annotation-page/ezgif-frame-020",
+              "id": "https://github.com/jonthethan/MadinatAlZahra/iiif/rotating-capital/canvas/ezgif-frame-020/annotation-page/ezgif-frame-020",
               "motivation": "painting",
-              "target": "http://localhost:8080/iiif/rotating-capital/canvas/ezgif-frame-020",
+              "target": "https://github.com/jonthethan/MadinatAlZahra/iiif/rotating-capital/canvas/ezgif-frame-020",
               "type": "Annotation",
               "body": {
-                "id": "http://localhost:8080/iiif/rotating-capital/ezgif-frame-020.jpg",
+                "id": "https://github.com/jonthethan/MadinatAlZahra/iiif/rotating-capital/ezgif-frame-020.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 2048,
@@ -271,22 +271,22 @@
       ]
     },
     {
-      "id": "http://localhost:8080/iiif/rotating-capital/canvas/ezgif-frame-023",
+      "id": "https://github.com/jonthethan/MadinatAlZahra/iiif/rotating-capital/canvas/ezgif-frame-023",
       "type": "Canvas",
       "height": 2048,
       "width": 2048,
       "items": [
         {
-          "id": "http://localhost:8080/iiif/rotating-capital/canvas/ezgif-frame-023/annotation-page",
+          "id": "https://github.com/jonthethan/MadinatAlZahra/iiif/rotating-capital/canvas/ezgif-frame-023/annotation-page",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "http://localhost:8080/iiif/rotating-capital/canvas/ezgif-frame-023/annotation-page/ezgif-frame-023",
+              "id": "https://github.com/jonthethan/MadinatAlZahra/iiif/rotating-capital/canvas/ezgif-frame-023/annotation-page/ezgif-frame-023",
               "motivation": "painting",
-              "target": "http://localhost:8080/iiif/rotating-capital/canvas/ezgif-frame-023",
+              "target": "https://github.com/jonthethan/MadinatAlZahra/iiif/rotating-capital/canvas/ezgif-frame-023",
               "type": "Annotation",
               "body": {
-                "id": "http://localhost:8080/iiif/rotating-capital/ezgif-frame-023.jpg",
+                "id": "https://github.com/jonthethan/MadinatAlZahra/iiif/rotating-capital/ezgif-frame-023.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 2048,
@@ -303,22 +303,22 @@
       ]
     },
     {
-      "id": "http://localhost:8080/iiif/rotating-capital/canvas/ezgif-frame-025",
+      "id": "https://github.com/jonthethan/MadinatAlZahra/iiif/rotating-capital/canvas/ezgif-frame-025",
       "type": "Canvas",
       "height": 2048,
       "width": 2048,
       "items": [
         {
-          "id": "http://localhost:8080/iiif/rotating-capital/canvas/ezgif-frame-025/annotation-page",
+          "id": "https://github.com/jonthethan/MadinatAlZahra/iiif/rotating-capital/canvas/ezgif-frame-025/annotation-page",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "http://localhost:8080/iiif/rotating-capital/canvas/ezgif-frame-025/annotation-page/ezgif-frame-025",
+              "id": "https://github.com/jonthethan/MadinatAlZahra/iiif/rotating-capital/canvas/ezgif-frame-025/annotation-page/ezgif-frame-025",
               "motivation": "painting",
-              "target": "http://localhost:8080/iiif/rotating-capital/canvas/ezgif-frame-025",
+              "target": "https://github.com/jonthethan/MadinatAlZahra/iiif/rotating-capital/canvas/ezgif-frame-025",
               "type": "Annotation",
               "body": {
-                "id": "http://localhost:8080/iiif/rotating-capital/ezgif-frame-025.jpg",
+                "id": "https://github.com/jonthethan/MadinatAlZahra/iiif/rotating-capital/ezgif-frame-025.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 2048,
@@ -335,22 +335,22 @@
       ]
     },
     {
-      "id": "http://localhost:8080/iiif/rotating-capital/canvas/ezgif-frame-028",
+      "id": "https://github.com/jonthethan/MadinatAlZahra/iiif/rotating-capital/canvas/ezgif-frame-028",
       "type": "Canvas",
       "height": 2048,
       "width": 2048,
       "items": [
         {
-          "id": "http://localhost:8080/iiif/rotating-capital/canvas/ezgif-frame-028/annotation-page",
+          "id": "https://github.com/jonthethan/MadinatAlZahra/iiif/rotating-capital/canvas/ezgif-frame-028/annotation-page",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "http://localhost:8080/iiif/rotating-capital/canvas/ezgif-frame-028/annotation-page/ezgif-frame-028",
+              "id": "https://github.com/jonthethan/MadinatAlZahra/iiif/rotating-capital/canvas/ezgif-frame-028/annotation-page/ezgif-frame-028",
               "motivation": "painting",
-              "target": "http://localhost:8080/iiif/rotating-capital/canvas/ezgif-frame-028",
+              "target": "https://github.com/jonthethan/MadinatAlZahra/iiif/rotating-capital/canvas/ezgif-frame-028",
               "type": "Annotation",
               "body": {
-                "id": "http://localhost:8080/iiif/rotating-capital/ezgif-frame-028.jpg",
+                "id": "https://github.com/jonthethan/MadinatAlZahra/iiif/rotating-capital/ezgif-frame-028.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 2048,
@@ -367,22 +367,22 @@
       ]
     },
     {
-      "id": "http://localhost:8080/iiif/rotating-capital/canvas/ezgif-frame-030",
+      "id": "https://github.com/jonthethan/MadinatAlZahra/iiif/rotating-capital/canvas/ezgif-frame-030",
       "type": "Canvas",
       "height": 2048,
       "width": 2048,
       "items": [
         {
-          "id": "http://localhost:8080/iiif/rotating-capital/canvas/ezgif-frame-030/annotation-page",
+          "id": "https://github.com/jonthethan/MadinatAlZahra/iiif/rotating-capital/canvas/ezgif-frame-030/annotation-page",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "http://localhost:8080/iiif/rotating-capital/canvas/ezgif-frame-030/annotation-page/ezgif-frame-030",
+              "id": "https://github.com/jonthethan/MadinatAlZahra/iiif/rotating-capital/canvas/ezgif-frame-030/annotation-page/ezgif-frame-030",
               "motivation": "painting",
-              "target": "http://localhost:8080/iiif/rotating-capital/canvas/ezgif-frame-030",
+              "target": "https://github.com/jonthethan/MadinatAlZahra/iiif/rotating-capital/canvas/ezgif-frame-030",
               "type": "Annotation",
               "body": {
-                "id": "http://localhost:8080/iiif/rotating-capital/ezgif-frame-030.jpg",
+                "id": "https://github.com/jonthethan/MadinatAlZahra/iiif/rotating-capital/ezgif-frame-030.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 2048,
@@ -399,22 +399,22 @@
       ]
     },
     {
-      "id": "http://localhost:8080/iiif/rotating-capital/canvas/ezgif-frame-033",
+      "id": "https://github.com/jonthethan/MadinatAlZahra/iiif/rotating-capital/canvas/ezgif-frame-033",
       "type": "Canvas",
       "height": 2048,
       "width": 2048,
       "items": [
         {
-          "id": "http://localhost:8080/iiif/rotating-capital/canvas/ezgif-frame-033/annotation-page",
+          "id": "https://github.com/jonthethan/MadinatAlZahra/iiif/rotating-capital/canvas/ezgif-frame-033/annotation-page",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "http://localhost:8080/iiif/rotating-capital/canvas/ezgif-frame-033/annotation-page/ezgif-frame-033",
+              "id": "https://github.com/jonthethan/MadinatAlZahra/iiif/rotating-capital/canvas/ezgif-frame-033/annotation-page/ezgif-frame-033",
               "motivation": "painting",
-              "target": "http://localhost:8080/iiif/rotating-capital/canvas/ezgif-frame-033",
+              "target": "https://github.com/jonthethan/MadinatAlZahra/iiif/rotating-capital/canvas/ezgif-frame-033",
               "type": "Annotation",
               "body": {
-                "id": "http://localhost:8080/iiif/rotating-capital/ezgif-frame-033.jpg",
+                "id": "https://github.com/jonthethan/MadinatAlZahra/iiif/rotating-capital/ezgif-frame-033.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 2048,
@@ -431,22 +431,22 @@
       ]
     },
     {
-      "id": "http://localhost:8080/iiif/rotating-capital/canvas/ezgif-frame-035",
+      "id": "https://github.com/jonthethan/MadinatAlZahra/iiif/rotating-capital/canvas/ezgif-frame-035",
       "type": "Canvas",
       "height": 2048,
       "width": 2048,
       "items": [
         {
-          "id": "http://localhost:8080/iiif/rotating-capital/canvas/ezgif-frame-035/annotation-page",
+          "id": "https://github.com/jonthethan/MadinatAlZahra/iiif/rotating-capital/canvas/ezgif-frame-035/annotation-page",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "http://localhost:8080/iiif/rotating-capital/canvas/ezgif-frame-035/annotation-page/ezgif-frame-035",
+              "id": "https://github.com/jonthethan/MadinatAlZahra/iiif/rotating-capital/canvas/ezgif-frame-035/annotation-page/ezgif-frame-035",
               "motivation": "painting",
-              "target": "http://localhost:8080/iiif/rotating-capital/canvas/ezgif-frame-035",
+              "target": "https://github.com/jonthethan/MadinatAlZahra/iiif/rotating-capital/canvas/ezgif-frame-035",
               "type": "Annotation",
               "body": {
-                "id": "http://localhost:8080/iiif/rotating-capital/ezgif-frame-035.jpg",
+                "id": "https://github.com/jonthethan/MadinatAlZahra/iiif/rotating-capital/ezgif-frame-035.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 2048,
@@ -463,22 +463,22 @@
       ]
     },
     {
-      "id": "http://localhost:8080/iiif/rotating-capital/canvas/ezgif-frame-038",
+      "id": "https://github.com/jonthethan/MadinatAlZahra/iiif/rotating-capital/canvas/ezgif-frame-038",
       "type": "Canvas",
       "height": 2048,
       "width": 2048,
       "items": [
         {
-          "id": "http://localhost:8080/iiif/rotating-capital/canvas/ezgif-frame-038/annotation-page",
+          "id": "https://github.com/jonthethan/MadinatAlZahra/iiif/rotating-capital/canvas/ezgif-frame-038/annotation-page",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "http://localhost:8080/iiif/rotating-capital/canvas/ezgif-frame-038/annotation-page/ezgif-frame-038",
+              "id": "https://github.com/jonthethan/MadinatAlZahra/iiif/rotating-capital/canvas/ezgif-frame-038/annotation-page/ezgif-frame-038",
               "motivation": "painting",
-              "target": "http://localhost:8080/iiif/rotating-capital/canvas/ezgif-frame-038",
+              "target": "https://github.com/jonthethan/MadinatAlZahra/iiif/rotating-capital/canvas/ezgif-frame-038",
               "type": "Annotation",
               "body": {
-                "id": "http://localhost:8080/iiif/rotating-capital/ezgif-frame-038.jpg",
+                "id": "https://github.com/jonthethan/MadinatAlZahra/iiif/rotating-capital/ezgif-frame-038.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 2048,
@@ -495,22 +495,22 @@
       ]
     },
     {
-      "id": "http://localhost:8080/iiif/rotating-capital/canvas/ezgif-frame-040",
+      "id": "https://github.com/jonthethan/MadinatAlZahra/iiif/rotating-capital/canvas/ezgif-frame-040",
       "type": "Canvas",
       "height": 2048,
       "width": 2048,
       "items": [
         {
-          "id": "http://localhost:8080/iiif/rotating-capital/canvas/ezgif-frame-040/annotation-page",
+          "id": "https://github.com/jonthethan/MadinatAlZahra/iiif/rotating-capital/canvas/ezgif-frame-040/annotation-page",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "http://localhost:8080/iiif/rotating-capital/canvas/ezgif-frame-040/annotation-page/ezgif-frame-040",
+              "id": "https://github.com/jonthethan/MadinatAlZahra/iiif/rotating-capital/canvas/ezgif-frame-040/annotation-page/ezgif-frame-040",
               "motivation": "painting",
-              "target": "http://localhost:8080/iiif/rotating-capital/canvas/ezgif-frame-040",
+              "target": "https://github.com/jonthethan/MadinatAlZahra/iiif/rotating-capital/canvas/ezgif-frame-040",
               "type": "Annotation",
               "body": {
-                "id": "http://localhost:8080/iiif/rotating-capital/ezgif-frame-040.jpg",
+                "id": "https://github.com/jonthethan/MadinatAlZahra/iiif/rotating-capital/ezgif-frame-040.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 2048,
@@ -527,22 +527,22 @@
       ]
     },
     {
-      "id": "http://localhost:8080/iiif/rotating-capital/canvas/ezgif-frame-043",
+      "id": "https://github.com/jonthethan/MadinatAlZahra/iiif/rotating-capital/canvas/ezgif-frame-043",
       "type": "Canvas",
       "height": 2048,
       "width": 2048,
       "items": [
         {
-          "id": "http://localhost:8080/iiif/rotating-capital/canvas/ezgif-frame-043/annotation-page",
+          "id": "https://github.com/jonthethan/MadinatAlZahra/iiif/rotating-capital/canvas/ezgif-frame-043/annotation-page",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "http://localhost:8080/iiif/rotating-capital/canvas/ezgif-frame-043/annotation-page/ezgif-frame-043",
+              "id": "https://github.com/jonthethan/MadinatAlZahra/iiif/rotating-capital/canvas/ezgif-frame-043/annotation-page/ezgif-frame-043",
               "motivation": "painting",
-              "target": "http://localhost:8080/iiif/rotating-capital/canvas/ezgif-frame-043",
+              "target": "https://github.com/jonthethan/MadinatAlZahra/iiif/rotating-capital/canvas/ezgif-frame-043",
               "type": "Annotation",
               "body": {
-                "id": "http://localhost:8080/iiif/rotating-capital/ezgif-frame-043.jpg",
+                "id": "https://github.com/jonthethan/MadinatAlZahra/iiif/rotating-capital/ezgif-frame-043.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 2048,
@@ -559,22 +559,22 @@
       ]
     },
     {
-      "id": "http://localhost:8080/iiif/rotating-capital/canvas/ezgif-frame-045",
+      "id": "https://github.com/jonthethan/MadinatAlZahra/iiif/rotating-capital/canvas/ezgif-frame-045",
       "type": "Canvas",
       "height": 2048,
       "width": 2048,
       "items": [
         {
-          "id": "http://localhost:8080/iiif/rotating-capital/canvas/ezgif-frame-045/annotation-page",
+          "id": "https://github.com/jonthethan/MadinatAlZahra/iiif/rotating-capital/canvas/ezgif-frame-045/annotation-page",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "http://localhost:8080/iiif/rotating-capital/canvas/ezgif-frame-045/annotation-page/ezgif-frame-045",
+              "id": "https://github.com/jonthethan/MadinatAlZahra/iiif/rotating-capital/canvas/ezgif-frame-045/annotation-page/ezgif-frame-045",
               "motivation": "painting",
-              "target": "http://localhost:8080/iiif/rotating-capital/canvas/ezgif-frame-045",
+              "target": "https://github.com/jonthethan/MadinatAlZahra/iiif/rotating-capital/canvas/ezgif-frame-045",
               "type": "Annotation",
               "body": {
-                "id": "http://localhost:8080/iiif/rotating-capital/ezgif-frame-045.jpg",
+                "id": "https://github.com/jonthethan/MadinatAlZahra/iiif/rotating-capital/ezgif-frame-045.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 2048,
@@ -591,22 +591,22 @@
       ]
     },
     {
-      "id": "http://localhost:8080/iiif/rotating-capital/canvas/ezgif-frame-048",
+      "id": "https://github.com/jonthethan/MadinatAlZahra/iiif/rotating-capital/canvas/ezgif-frame-048",
       "type": "Canvas",
       "height": 2048,
       "width": 2048,
       "items": [
         {
-          "id": "http://localhost:8080/iiif/rotating-capital/canvas/ezgif-frame-048/annotation-page",
+          "id": "https://github.com/jonthethan/MadinatAlZahra/iiif/rotating-capital/canvas/ezgif-frame-048/annotation-page",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "http://localhost:8080/iiif/rotating-capital/canvas/ezgif-frame-048/annotation-page/ezgif-frame-048",
+              "id": "https://github.com/jonthethan/MadinatAlZahra/iiif/rotating-capital/canvas/ezgif-frame-048/annotation-page/ezgif-frame-048",
               "motivation": "painting",
-              "target": "http://localhost:8080/iiif/rotating-capital/canvas/ezgif-frame-048",
+              "target": "https://github.com/jonthethan/MadinatAlZahra/iiif/rotating-capital/canvas/ezgif-frame-048",
               "type": "Annotation",
               "body": {
-                "id": "http://localhost:8080/iiif/rotating-capital/ezgif-frame-048.jpg",
+                "id": "https://github.com/jonthethan/MadinatAlZahra/iiif/rotating-capital/ezgif-frame-048.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 2048,
@@ -623,22 +623,22 @@
       ]
     },
     {
-      "id": "http://localhost:8080/iiif/rotating-capital/canvas/ezgif-frame-050",
+      "id": "https://github.com/jonthethan/MadinatAlZahra/iiif/rotating-capital/canvas/ezgif-frame-050",
       "type": "Canvas",
       "height": 2048,
       "width": 2048,
       "items": [
         {
-          "id": "http://localhost:8080/iiif/rotating-capital/canvas/ezgif-frame-050/annotation-page",
+          "id": "https://github.com/jonthethan/MadinatAlZahra/iiif/rotating-capital/canvas/ezgif-frame-050/annotation-page",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "http://localhost:8080/iiif/rotating-capital/canvas/ezgif-frame-050/annotation-page/ezgif-frame-050",
+              "id": "https://github.com/jonthethan/MadinatAlZahra/iiif/rotating-capital/canvas/ezgif-frame-050/annotation-page/ezgif-frame-050",
               "motivation": "painting",
-              "target": "http://localhost:8080/iiif/rotating-capital/canvas/ezgif-frame-050",
+              "target": "https://github.com/jonthethan/MadinatAlZahra/iiif/rotating-capital/canvas/ezgif-frame-050",
               "type": "Annotation",
               "body": {
-                "id": "http://localhost:8080/iiif/rotating-capital/ezgif-frame-050.jpg",
+                "id": "https://github.com/jonthethan/MadinatAlZahra/iiif/rotating-capital/ezgif-frame-050.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 2048,
@@ -655,22 +655,22 @@
       ]
     },
     {
-      "id": "http://localhost:8080/iiif/rotating-capital/canvas/ezgif-frame-053",
+      "id": "https://github.com/jonthethan/MadinatAlZahra/iiif/rotating-capital/canvas/ezgif-frame-053",
       "type": "Canvas",
       "height": 2048,
       "width": 2048,
       "items": [
         {
-          "id": "http://localhost:8080/iiif/rotating-capital/canvas/ezgif-frame-053/annotation-page",
+          "id": "https://github.com/jonthethan/MadinatAlZahra/iiif/rotating-capital/canvas/ezgif-frame-053/annotation-page",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "http://localhost:8080/iiif/rotating-capital/canvas/ezgif-frame-053/annotation-page/ezgif-frame-053",
+              "id": "https://github.com/jonthethan/MadinatAlZahra/iiif/rotating-capital/canvas/ezgif-frame-053/annotation-page/ezgif-frame-053",
               "motivation": "painting",
-              "target": "http://localhost:8080/iiif/rotating-capital/canvas/ezgif-frame-053",
+              "target": "https://github.com/jonthethan/MadinatAlZahra/iiif/rotating-capital/canvas/ezgif-frame-053",
               "type": "Annotation",
               "body": {
-                "id": "http://localhost:8080/iiif/rotating-capital/ezgif-frame-053.jpg",
+                "id": "https://github.com/jonthethan/MadinatAlZahra/iiif/rotating-capital/ezgif-frame-053.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 2048,
@@ -687,22 +687,22 @@
       ]
     },
     {
-      "id": "http://localhost:8080/iiif/rotating-capital/canvas/ezgif-frame-055",
+      "id": "https://github.com/jonthethan/MadinatAlZahra/iiif/rotating-capital/canvas/ezgif-frame-055",
       "type": "Canvas",
       "height": 2048,
       "width": 2048,
       "items": [
         {
-          "id": "http://localhost:8080/iiif/rotating-capital/canvas/ezgif-frame-055/annotation-page",
+          "id": "https://github.com/jonthethan/MadinatAlZahra/iiif/rotating-capital/canvas/ezgif-frame-055/annotation-page",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "http://localhost:8080/iiif/rotating-capital/canvas/ezgif-frame-055/annotation-page/ezgif-frame-055",
+              "id": "https://github.com/jonthethan/MadinatAlZahra/iiif/rotating-capital/canvas/ezgif-frame-055/annotation-page/ezgif-frame-055",
               "motivation": "painting",
-              "target": "http://localhost:8080/iiif/rotating-capital/canvas/ezgif-frame-055",
+              "target": "https://github.com/jonthethan/MadinatAlZahra/iiif/rotating-capital/canvas/ezgif-frame-055",
               "type": "Annotation",
               "body": {
-                "id": "http://localhost:8080/iiif/rotating-capital/ezgif-frame-055.jpg",
+                "id": "https://github.com/jonthethan/MadinatAlZahra/iiif/rotating-capital/ezgif-frame-055.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 2048,
@@ -719,22 +719,22 @@
       ]
     },
     {
-      "id": "http://localhost:8080/iiif/rotating-capital/canvas/ezgif-frame-058",
+      "id": "https://github.com/jonthethan/MadinatAlZahra/iiif/rotating-capital/canvas/ezgif-frame-058",
       "type": "Canvas",
       "height": 2048,
       "width": 2048,
       "items": [
         {
-          "id": "http://localhost:8080/iiif/rotating-capital/canvas/ezgif-frame-058/annotation-page",
+          "id": "https://github.com/jonthethan/MadinatAlZahra/iiif/rotating-capital/canvas/ezgif-frame-058/annotation-page",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "http://localhost:8080/iiif/rotating-capital/canvas/ezgif-frame-058/annotation-page/ezgif-frame-058",
+              "id": "https://github.com/jonthethan/MadinatAlZahra/iiif/rotating-capital/canvas/ezgif-frame-058/annotation-page/ezgif-frame-058",
               "motivation": "painting",
-              "target": "http://localhost:8080/iiif/rotating-capital/canvas/ezgif-frame-058",
+              "target": "https://github.com/jonthethan/MadinatAlZahra/iiif/rotating-capital/canvas/ezgif-frame-058",
               "type": "Annotation",
               "body": {
-                "id": "http://localhost:8080/iiif/rotating-capital/ezgif-frame-058.jpg",
+                "id": "https://github.com/jonthethan/MadinatAlZahra/iiif/rotating-capital/ezgif-frame-058.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 2048,
@@ -751,22 +751,22 @@
       ]
     },
     {
-      "id": "http://localhost:8080/iiif/rotating-capital/canvas/ezgif-frame-060",
+      "id": "https://github.com/jonthethan/MadinatAlZahra/iiif/rotating-capital/canvas/ezgif-frame-060",
       "type": "Canvas",
       "height": 2048,
       "width": 2048,
       "items": [
         {
-          "id": "http://localhost:8080/iiif/rotating-capital/canvas/ezgif-frame-060/annotation-page",
+          "id": "https://github.com/jonthethan/MadinatAlZahra/iiif/rotating-capital/canvas/ezgif-frame-060/annotation-page",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "http://localhost:8080/iiif/rotating-capital/canvas/ezgif-frame-060/annotation-page/ezgif-frame-060",
+              "id": "https://github.com/jonthethan/MadinatAlZahra/iiif/rotating-capital/canvas/ezgif-frame-060/annotation-page/ezgif-frame-060",
               "motivation": "painting",
-              "target": "http://localhost:8080/iiif/rotating-capital/canvas/ezgif-frame-060",
+              "target": "https://github.com/jonthethan/MadinatAlZahra/iiif/rotating-capital/canvas/ezgif-frame-060",
               "type": "Annotation",
               "body": {
-                "id": "http://localhost:8080/iiif/rotating-capital/ezgif-frame-060.jpg",
+                "id": "https://github.com/jonthethan/MadinatAlZahra/iiif/rotating-capital/ezgif-frame-060.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 2048,
@@ -783,22 +783,22 @@
       ]
     },
     {
-      "id": "http://localhost:8080/iiif/rotating-capital/canvas/ezgif-frame-063",
+      "id": "https://github.com/jonthethan/MadinatAlZahra/iiif/rotating-capital/canvas/ezgif-frame-063",
       "type": "Canvas",
       "height": 2048,
       "width": 2048,
       "items": [
         {
-          "id": "http://localhost:8080/iiif/rotating-capital/canvas/ezgif-frame-063/annotation-page",
+          "id": "https://github.com/jonthethan/MadinatAlZahra/iiif/rotating-capital/canvas/ezgif-frame-063/annotation-page",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "http://localhost:8080/iiif/rotating-capital/canvas/ezgif-frame-063/annotation-page/ezgif-frame-063",
+              "id": "https://github.com/jonthethan/MadinatAlZahra/iiif/rotating-capital/canvas/ezgif-frame-063/annotation-page/ezgif-frame-063",
               "motivation": "painting",
-              "target": "http://localhost:8080/iiif/rotating-capital/canvas/ezgif-frame-063",
+              "target": "https://github.com/jonthethan/MadinatAlZahra/iiif/rotating-capital/canvas/ezgif-frame-063",
               "type": "Annotation",
               "body": {
-                "id": "http://localhost:8080/iiif/rotating-capital/ezgif-frame-063.jpg",
+                "id": "https://github.com/jonthethan/MadinatAlZahra/iiif/rotating-capital/ezgif-frame-063.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 2048,
@@ -815,22 +815,22 @@
       ]
     },
     {
-      "id": "http://localhost:8080/iiif/rotating-capital/canvas/ezgif-frame-065",
+      "id": "https://github.com/jonthethan/MadinatAlZahra/iiif/rotating-capital/canvas/ezgif-frame-065",
       "type": "Canvas",
       "height": 2048,
       "width": 2048,
       "items": [
         {
-          "id": "http://localhost:8080/iiif/rotating-capital/canvas/ezgif-frame-065/annotation-page",
+          "id": "https://github.com/jonthethan/MadinatAlZahra/iiif/rotating-capital/canvas/ezgif-frame-065/annotation-page",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "http://localhost:8080/iiif/rotating-capital/canvas/ezgif-frame-065/annotation-page/ezgif-frame-065",
+              "id": "https://github.com/jonthethan/MadinatAlZahra/iiif/rotating-capital/canvas/ezgif-frame-065/annotation-page/ezgif-frame-065",
               "motivation": "painting",
-              "target": "http://localhost:8080/iiif/rotating-capital/canvas/ezgif-frame-065",
+              "target": "https://github.com/jonthethan/MadinatAlZahra/iiif/rotating-capital/canvas/ezgif-frame-065",
               "type": "Annotation",
               "body": {
-                "id": "http://localhost:8080/iiif/rotating-capital/ezgif-frame-065.jpg",
+                "id": "https://github.com/jonthethan/MadinatAlZahra/iiif/rotating-capital/ezgif-frame-065.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 2048,
@@ -847,22 +847,22 @@
       ]
     },
     {
-      "id": "http://localhost:8080/iiif/rotating-capital/canvas/ezgif-frame-068",
+      "id": "https://github.com/jonthethan/MadinatAlZahra/iiif/rotating-capital/canvas/ezgif-frame-068",
       "type": "Canvas",
       "height": 2048,
       "width": 2048,
       "items": [
         {
-          "id": "http://localhost:8080/iiif/rotating-capital/canvas/ezgif-frame-068/annotation-page",
+          "id": "https://github.com/jonthethan/MadinatAlZahra/iiif/rotating-capital/canvas/ezgif-frame-068/annotation-page",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "http://localhost:8080/iiif/rotating-capital/canvas/ezgif-frame-068/annotation-page/ezgif-frame-068",
+              "id": "https://github.com/jonthethan/MadinatAlZahra/iiif/rotating-capital/canvas/ezgif-frame-068/annotation-page/ezgif-frame-068",
               "motivation": "painting",
-              "target": "http://localhost:8080/iiif/rotating-capital/canvas/ezgif-frame-068",
+              "target": "https://github.com/jonthethan/MadinatAlZahra/iiif/rotating-capital/canvas/ezgif-frame-068",
               "type": "Annotation",
               "body": {
-                "id": "http://localhost:8080/iiif/rotating-capital/ezgif-frame-068.jpg",
+                "id": "https://github.com/jonthethan/MadinatAlZahra/iiif/rotating-capital/ezgif-frame-068.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 2048,
@@ -879,22 +879,22 @@
       ]
     },
     {
-      "id": "http://localhost:8080/iiif/rotating-capital/canvas/ezgif-frame-070",
+      "id": "https://github.com/jonthethan/MadinatAlZahra/iiif/rotating-capital/canvas/ezgif-frame-070",
       "type": "Canvas",
       "height": 2048,
       "width": 2048,
       "items": [
         {
-          "id": "http://localhost:8080/iiif/rotating-capital/canvas/ezgif-frame-070/annotation-page",
+          "id": "https://github.com/jonthethan/MadinatAlZahra/iiif/rotating-capital/canvas/ezgif-frame-070/annotation-page",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "http://localhost:8080/iiif/rotating-capital/canvas/ezgif-frame-070/annotation-page/ezgif-frame-070",
+              "id": "https://github.com/jonthethan/MadinatAlZahra/iiif/rotating-capital/canvas/ezgif-frame-070/annotation-page/ezgif-frame-070",
               "motivation": "painting",
-              "target": "http://localhost:8080/iiif/rotating-capital/canvas/ezgif-frame-070",
+              "target": "https://github.com/jonthethan/MadinatAlZahra/iiif/rotating-capital/canvas/ezgif-frame-070",
               "type": "Annotation",
               "body": {
-                "id": "http://localhost:8080/iiif/rotating-capital/ezgif-frame-070.jpg",
+                "id": "https://github.com/jonthethan/MadinatAlZahra/iiif/rotating-capital/ezgif-frame-070.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 2048,
@@ -911,22 +911,22 @@
       ]
     },
     {
-      "id": "http://localhost:8080/iiif/rotating-capital/canvas/ezgif-frame-073",
+      "id": "https://github.com/jonthethan/MadinatAlZahra/iiif/rotating-capital/canvas/ezgif-frame-073",
       "type": "Canvas",
       "height": 2048,
       "width": 2048,
       "items": [
         {
-          "id": "http://localhost:8080/iiif/rotating-capital/canvas/ezgif-frame-073/annotation-page",
+          "id": "https://github.com/jonthethan/MadinatAlZahra/iiif/rotating-capital/canvas/ezgif-frame-073/annotation-page",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "http://localhost:8080/iiif/rotating-capital/canvas/ezgif-frame-073/annotation-page/ezgif-frame-073",
+              "id": "https://github.com/jonthethan/MadinatAlZahra/iiif/rotating-capital/canvas/ezgif-frame-073/annotation-page/ezgif-frame-073",
               "motivation": "painting",
-              "target": "http://localhost:8080/iiif/rotating-capital/canvas/ezgif-frame-073",
+              "target": "https://github.com/jonthethan/MadinatAlZahra/iiif/rotating-capital/canvas/ezgif-frame-073",
               "type": "Annotation",
               "body": {
-                "id": "http://localhost:8080/iiif/rotating-capital/ezgif-frame-073.jpg",
+                "id": "https://github.com/jonthethan/MadinatAlZahra/iiif/rotating-capital/ezgif-frame-073.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 2048,
@@ -943,22 +943,22 @@
       ]
     },
     {
-      "id": "http://localhost:8080/iiif/rotating-capital/canvas/ezgif-frame-075",
+      "id": "https://github.com/jonthethan/MadinatAlZahra/iiif/rotating-capital/canvas/ezgif-frame-075",
       "type": "Canvas",
       "height": 2048,
       "width": 2048,
       "items": [
         {
-          "id": "http://localhost:8080/iiif/rotating-capital/canvas/ezgif-frame-075/annotation-page",
+          "id": "https://github.com/jonthethan/MadinatAlZahra/iiif/rotating-capital/canvas/ezgif-frame-075/annotation-page",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "http://localhost:8080/iiif/rotating-capital/canvas/ezgif-frame-075/annotation-page/ezgif-frame-075",
+              "id": "https://github.com/jonthethan/MadinatAlZahra/iiif/rotating-capital/canvas/ezgif-frame-075/annotation-page/ezgif-frame-075",
               "motivation": "painting",
-              "target": "http://localhost:8080/iiif/rotating-capital/canvas/ezgif-frame-075",
+              "target": "https://github.com/jonthethan/MadinatAlZahra/iiif/rotating-capital/canvas/ezgif-frame-075",
               "type": "Annotation",
               "body": {
-                "id": "http://localhost:8080/iiif/rotating-capital/ezgif-frame-075.jpg",
+                "id": "https://github.com/jonthethan/MadinatAlZahra/iiif/rotating-capital/ezgif-frame-075.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 2048,
@@ -975,22 +975,22 @@
       ]
     },
     {
-      "id": "http://localhost:8080/iiif/rotating-capital/canvas/ezgif-frame-078",
+      "id": "https://github.com/jonthethan/MadinatAlZahra/iiif/rotating-capital/canvas/ezgif-frame-078",
       "type": "Canvas",
       "height": 2048,
       "width": 2048,
       "items": [
         {
-          "id": "http://localhost:8080/iiif/rotating-capital/canvas/ezgif-frame-078/annotation-page",
+          "id": "https://github.com/jonthethan/MadinatAlZahra/iiif/rotating-capital/canvas/ezgif-frame-078/annotation-page",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "http://localhost:8080/iiif/rotating-capital/canvas/ezgif-frame-078/annotation-page/ezgif-frame-078",
+              "id": "https://github.com/jonthethan/MadinatAlZahra/iiif/rotating-capital/canvas/ezgif-frame-078/annotation-page/ezgif-frame-078",
               "motivation": "painting",
-              "target": "http://localhost:8080/iiif/rotating-capital/canvas/ezgif-frame-078",
+              "target": "https://github.com/jonthethan/MadinatAlZahra/iiif/rotating-capital/canvas/ezgif-frame-078",
               "type": "Annotation",
               "body": {
-                "id": "http://localhost:8080/iiif/rotating-capital/ezgif-frame-078.jpg",
+                "id": "https://github.com/jonthethan/MadinatAlZahra/iiif/rotating-capital/ezgif-frame-078.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 2048,
@@ -1007,22 +1007,22 @@
       ]
     },
     {
-      "id": "http://localhost:8080/iiif/rotating-capital/canvas/ezgif-frame-080",
+      "id": "https://github.com/jonthethan/MadinatAlZahra/iiif/rotating-capital/canvas/ezgif-frame-080",
       "type": "Canvas",
       "height": 2048,
       "width": 2048,
       "items": [
         {
-          "id": "http://localhost:8080/iiif/rotating-capital/canvas/ezgif-frame-080/annotation-page",
+          "id": "https://github.com/jonthethan/MadinatAlZahra/iiif/rotating-capital/canvas/ezgif-frame-080/annotation-page",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "http://localhost:8080/iiif/rotating-capital/canvas/ezgif-frame-080/annotation-page/ezgif-frame-080",
+              "id": "https://github.com/jonthethan/MadinatAlZahra/iiif/rotating-capital/canvas/ezgif-frame-080/annotation-page/ezgif-frame-080",
               "motivation": "painting",
-              "target": "http://localhost:8080/iiif/rotating-capital/canvas/ezgif-frame-080",
+              "target": "https://github.com/jonthethan/MadinatAlZahra/iiif/rotating-capital/canvas/ezgif-frame-080",
               "type": "Annotation",
               "body": {
-                "id": "http://localhost:8080/iiif/rotating-capital/ezgif-frame-080.jpg",
+                "id": "https://github.com/jonthethan/MadinatAlZahra/iiif/rotating-capital/ezgif-frame-080.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 2048,
@@ -1039,22 +1039,22 @@
       ]
     },
     {
-      "id": "http://localhost:8080/iiif/rotating-capital/canvas/ezgif-frame-083",
+      "id": "https://github.com/jonthethan/MadinatAlZahra/iiif/rotating-capital/canvas/ezgif-frame-083",
       "type": "Canvas",
       "height": 2048,
       "width": 2048,
       "items": [
         {
-          "id": "http://localhost:8080/iiif/rotating-capital/canvas/ezgif-frame-083/annotation-page",
+          "id": "https://github.com/jonthethan/MadinatAlZahra/iiif/rotating-capital/canvas/ezgif-frame-083/annotation-page",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "http://localhost:8080/iiif/rotating-capital/canvas/ezgif-frame-083/annotation-page/ezgif-frame-083",
+              "id": "https://github.com/jonthethan/MadinatAlZahra/iiif/rotating-capital/canvas/ezgif-frame-083/annotation-page/ezgif-frame-083",
               "motivation": "painting",
-              "target": "http://localhost:8080/iiif/rotating-capital/canvas/ezgif-frame-083",
+              "target": "https://github.com/jonthethan/MadinatAlZahra/iiif/rotating-capital/canvas/ezgif-frame-083",
               "type": "Annotation",
               "body": {
-                "id": "http://localhost:8080/iiif/rotating-capital/ezgif-frame-083.jpg",
+                "id": "https://github.com/jonthethan/MadinatAlZahra/iiif/rotating-capital/ezgif-frame-083.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 2048,
@@ -1071,22 +1071,22 @@
       ]
     },
     {
-      "id": "http://localhost:8080/iiif/rotating-capital/canvas/ezgif-frame-085",
+      "id": "https://github.com/jonthethan/MadinatAlZahra/iiif/rotating-capital/canvas/ezgif-frame-085",
       "type": "Canvas",
       "height": 2048,
       "width": 2048,
       "items": [
         {
-          "id": "http://localhost:8080/iiif/rotating-capital/canvas/ezgif-frame-085/annotation-page",
+          "id": "https://github.com/jonthethan/MadinatAlZahra/iiif/rotating-capital/canvas/ezgif-frame-085/annotation-page",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "http://localhost:8080/iiif/rotating-capital/canvas/ezgif-frame-085/annotation-page/ezgif-frame-085",
+              "id": "https://github.com/jonthethan/MadinatAlZahra/iiif/rotating-capital/canvas/ezgif-frame-085/annotation-page/ezgif-frame-085",
               "motivation": "painting",
-              "target": "http://localhost:8080/iiif/rotating-capital/canvas/ezgif-frame-085",
+              "target": "https://github.com/jonthethan/MadinatAlZahra/iiif/rotating-capital/canvas/ezgif-frame-085",
               "type": "Annotation",
               "body": {
-                "id": "http://localhost:8080/iiif/rotating-capital/ezgif-frame-085.jpg",
+                "id": "https://github.com/jonthethan/MadinatAlZahra/iiif/rotating-capital/ezgif-frame-085.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 2048,
@@ -1103,22 +1103,22 @@
       ]
     },
     {
-      "id": "http://localhost:8080/iiif/rotating-capital/canvas/ezgif-frame-088",
+      "id": "https://github.com/jonthethan/MadinatAlZahra/iiif/rotating-capital/canvas/ezgif-frame-088",
       "type": "Canvas",
       "height": 2048,
       "width": 2048,
       "items": [
         {
-          "id": "http://localhost:8080/iiif/rotating-capital/canvas/ezgif-frame-088/annotation-page",
+          "id": "https://github.com/jonthethan/MadinatAlZahra/iiif/rotating-capital/canvas/ezgif-frame-088/annotation-page",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "http://localhost:8080/iiif/rotating-capital/canvas/ezgif-frame-088/annotation-page/ezgif-frame-088",
+              "id": "https://github.com/jonthethan/MadinatAlZahra/iiif/rotating-capital/canvas/ezgif-frame-088/annotation-page/ezgif-frame-088",
               "motivation": "painting",
-              "target": "http://localhost:8080/iiif/rotating-capital/canvas/ezgif-frame-088",
+              "target": "https://github.com/jonthethan/MadinatAlZahra/iiif/rotating-capital/canvas/ezgif-frame-088",
               "type": "Annotation",
               "body": {
-                "id": "http://localhost:8080/iiif/rotating-capital/ezgif-frame-088.jpg",
+                "id": "https://github.com/jonthethan/MadinatAlZahra/iiif/rotating-capital/ezgif-frame-088.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 2048,
@@ -1135,22 +1135,22 @@
       ]
     },
     {
-      "id": "http://localhost:8080/iiif/rotating-capital/canvas/ezgif-frame-090",
+      "id": "https://github.com/jonthethan/MadinatAlZahra/iiif/rotating-capital/canvas/ezgif-frame-090",
       "type": "Canvas",
       "height": 2048,
       "width": 2048,
       "items": [
         {
-          "id": "http://localhost:8080/iiif/rotating-capital/canvas/ezgif-frame-090/annotation-page",
+          "id": "https://github.com/jonthethan/MadinatAlZahra/iiif/rotating-capital/canvas/ezgif-frame-090/annotation-page",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "http://localhost:8080/iiif/rotating-capital/canvas/ezgif-frame-090/annotation-page/ezgif-frame-090",
+              "id": "https://github.com/jonthethan/MadinatAlZahra/iiif/rotating-capital/canvas/ezgif-frame-090/annotation-page/ezgif-frame-090",
               "motivation": "painting",
-              "target": "http://localhost:8080/iiif/rotating-capital/canvas/ezgif-frame-090",
+              "target": "https://github.com/jonthethan/MadinatAlZahra/iiif/rotating-capital/canvas/ezgif-frame-090",
               "type": "Annotation",
               "body": {
-                "id": "http://localhost:8080/iiif/rotating-capital/ezgif-frame-090.jpg",
+                "id": "https://github.com/jonthethan/MadinatAlZahra/iiif/rotating-capital/ezgif-frame-090.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 2048,
@@ -1167,22 +1167,22 @@
       ]
     },
     {
-      "id": "http://localhost:8080/iiif/rotating-capital/canvas/ezgif-frame-093",
+      "id": "https://github.com/jonthethan/MadinatAlZahra/iiif/rotating-capital/canvas/ezgif-frame-093",
       "type": "Canvas",
       "height": 2048,
       "width": 2048,
       "items": [
         {
-          "id": "http://localhost:8080/iiif/rotating-capital/canvas/ezgif-frame-093/annotation-page",
+          "id": "https://github.com/jonthethan/MadinatAlZahra/iiif/rotating-capital/canvas/ezgif-frame-093/annotation-page",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "http://localhost:8080/iiif/rotating-capital/canvas/ezgif-frame-093/annotation-page/ezgif-frame-093",
+              "id": "https://github.com/jonthethan/MadinatAlZahra/iiif/rotating-capital/canvas/ezgif-frame-093/annotation-page/ezgif-frame-093",
               "motivation": "painting",
-              "target": "http://localhost:8080/iiif/rotating-capital/canvas/ezgif-frame-093",
+              "target": "https://github.com/jonthethan/MadinatAlZahra/iiif/rotating-capital/canvas/ezgif-frame-093",
               "type": "Annotation",
               "body": {
-                "id": "http://localhost:8080/iiif/rotating-capital/ezgif-frame-093.jpg",
+                "id": "https://github.com/jonthethan/MadinatAlZahra/iiif/rotating-capital/ezgif-frame-093.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 2048,
@@ -1199,22 +1199,22 @@
       ]
     },
     {
-      "id": "http://localhost:8080/iiif/rotating-capital/canvas/ezgif-frame-095",
+      "id": "https://github.com/jonthethan/MadinatAlZahra/iiif/rotating-capital/canvas/ezgif-frame-095",
       "type": "Canvas",
       "height": 2048,
       "width": 2048,
       "items": [
         {
-          "id": "http://localhost:8080/iiif/rotating-capital/canvas/ezgif-frame-095/annotation-page",
+          "id": "https://github.com/jonthethan/MadinatAlZahra/iiif/rotating-capital/canvas/ezgif-frame-095/annotation-page",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "http://localhost:8080/iiif/rotating-capital/canvas/ezgif-frame-095/annotation-page/ezgif-frame-095",
+              "id": "https://github.com/jonthethan/MadinatAlZahra/iiif/rotating-capital/canvas/ezgif-frame-095/annotation-page/ezgif-frame-095",
               "motivation": "painting",
-              "target": "http://localhost:8080/iiif/rotating-capital/canvas/ezgif-frame-095",
+              "target": "https://github.com/jonthethan/MadinatAlZahra/iiif/rotating-capital/canvas/ezgif-frame-095",
               "type": "Annotation",
               "body": {
-                "id": "http://localhost:8080/iiif/rotating-capital/ezgif-frame-095.jpg",
+                "id": "https://github.com/jonthethan/MadinatAlZahra/iiif/rotating-capital/ezgif-frame-095.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 2048,
@@ -1231,22 +1231,22 @@
       ]
     },
     {
-      "id": "http://localhost:8080/iiif/rotating-capital/canvas/ezgif-frame-098",
+      "id": "https://github.com/jonthethan/MadinatAlZahra/iiif/rotating-capital/canvas/ezgif-frame-098",
       "type": "Canvas",
       "height": 2048,
       "width": 2048,
       "items": [
         {
-          "id": "http://localhost:8080/iiif/rotating-capital/canvas/ezgif-frame-098/annotation-page",
+          "id": "https://github.com/jonthethan/MadinatAlZahra/iiif/rotating-capital/canvas/ezgif-frame-098/annotation-page",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "http://localhost:8080/iiif/rotating-capital/canvas/ezgif-frame-098/annotation-page/ezgif-frame-098",
+              "id": "https://github.com/jonthethan/MadinatAlZahra/iiif/rotating-capital/canvas/ezgif-frame-098/annotation-page/ezgif-frame-098",
               "motivation": "painting",
-              "target": "http://localhost:8080/iiif/rotating-capital/canvas/ezgif-frame-098",
+              "target": "https://github.com/jonthethan/MadinatAlZahra/iiif/rotating-capital/canvas/ezgif-frame-098",
               "type": "Annotation",
               "body": {
-                "id": "http://localhost:8080/iiif/rotating-capital/ezgif-frame-098.jpg",
+                "id": "https://github.com/jonthethan/MadinatAlZahra/iiif/rotating-capital/ezgif-frame-098.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 2048,
@@ -1263,22 +1263,22 @@
       ]
     },
     {
-      "id": "http://localhost:8080/iiif/rotating-capital/canvas/ezgif-frame-100",
+      "id": "https://github.com/jonthethan/MadinatAlZahra/iiif/rotating-capital/canvas/ezgif-frame-100",
       "type": "Canvas",
       "height": 2048,
       "width": 2048,
       "items": [
         {
-          "id": "http://localhost:8080/iiif/rotating-capital/canvas/ezgif-frame-100/annotation-page",
+          "id": "https://github.com/jonthethan/MadinatAlZahra/iiif/rotating-capital/canvas/ezgif-frame-100/annotation-page",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "http://localhost:8080/iiif/rotating-capital/canvas/ezgif-frame-100/annotation-page/ezgif-frame-100",
+              "id": "https://github.com/jonthethan/MadinatAlZahra/iiif/rotating-capital/canvas/ezgif-frame-100/annotation-page/ezgif-frame-100",
               "motivation": "painting",
-              "target": "http://localhost:8080/iiif/rotating-capital/canvas/ezgif-frame-100",
+              "target": "https://github.com/jonthethan/MadinatAlZahra/iiif/rotating-capital/canvas/ezgif-frame-100",
               "type": "Annotation",
               "body": {
-                "id": "http://localhost:8080/iiif/rotating-capital/ezgif-frame-100.jpg",
+                "id": "https://github.com/jonthethan/MadinatAlZahra/iiif/rotating-capital/ezgif-frame-100.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 2048,
@@ -1297,166 +1297,166 @@
   ],
   "structures": [
     {
-      "id": "http://localhost:8080/iiif/rotating-capital/ranges/0",
+      "id": "https://github.com/jonthethan/MadinatAlZahra/iiif/rotating-capital/ranges/0",
       "items": [
         {
-          "id": "http://localhost:8080/iiif/rotating-capital/canvas/ezgif-frame-001",
+          "id": "https://github.com/jonthethan/MadinatAlZahra/iiif/rotating-capital/canvas/ezgif-frame-001",
           "type": "Canvas"
         },
         {
-          "id": "http://localhost:8080/iiif/rotating-capital/canvas/ezgif-frame-005",
+          "id": "https://github.com/jonthethan/MadinatAlZahra/iiif/rotating-capital/canvas/ezgif-frame-005",
           "type": "Canvas"
         },
         {
-          "id": "http://localhost:8080/iiif/rotating-capital/canvas/ezgif-frame-008",
+          "id": "https://github.com/jonthethan/MadinatAlZahra/iiif/rotating-capital/canvas/ezgif-frame-008",
           "type": "Canvas"
         },
         {
-          "id": "http://localhost:8080/iiif/rotating-capital/canvas/ezgif-frame-010",
+          "id": "https://github.com/jonthethan/MadinatAlZahra/iiif/rotating-capital/canvas/ezgif-frame-010",
           "type": "Canvas"
         },
         {
-          "id": "http://localhost:8080/iiif/rotating-capital/canvas/ezgif-frame-013",
+          "id": "https://github.com/jonthethan/MadinatAlZahra/iiif/rotating-capital/canvas/ezgif-frame-013",
           "type": "Canvas"
         },
         {
-          "id": "http://localhost:8080/iiif/rotating-capital/canvas/ezgif-frame-015",
+          "id": "https://github.com/jonthethan/MadinatAlZahra/iiif/rotating-capital/canvas/ezgif-frame-015",
           "type": "Canvas"
         },
         {
-          "id": "http://localhost:8080/iiif/rotating-capital/canvas/ezgif-frame-018",
+          "id": "https://github.com/jonthethan/MadinatAlZahra/iiif/rotating-capital/canvas/ezgif-frame-018",
           "type": "Canvas"
         },
         {
-          "id": "http://localhost:8080/iiif/rotating-capital/canvas/ezgif-frame-020",
+          "id": "https://github.com/jonthethan/MadinatAlZahra/iiif/rotating-capital/canvas/ezgif-frame-020",
           "type": "Canvas"
         },
         {
-          "id": "http://localhost:8080/iiif/rotating-capital/canvas/ezgif-frame-023",
+          "id": "https://github.com/jonthethan/MadinatAlZahra/iiif/rotating-capital/canvas/ezgif-frame-023",
           "type": "Canvas"
         },
         {
-          "id": "http://localhost:8080/iiif/rotating-capital/canvas/ezgif-frame-025",
+          "id": "https://github.com/jonthethan/MadinatAlZahra/iiif/rotating-capital/canvas/ezgif-frame-025",
           "type": "Canvas"
         },
         {
-          "id": "http://localhost:8080/iiif/rotating-capital/canvas/ezgif-frame-028",
+          "id": "https://github.com/jonthethan/MadinatAlZahra/iiif/rotating-capital/canvas/ezgif-frame-028",
           "type": "Canvas"
         },
         {
-          "id": "http://localhost:8080/iiif/rotating-capital/canvas/ezgif-frame-030",
+          "id": "https://github.com/jonthethan/MadinatAlZahra/iiif/rotating-capital/canvas/ezgif-frame-030",
           "type": "Canvas"
         },
         {
-          "id": "http://localhost:8080/iiif/rotating-capital/canvas/ezgif-frame-033",
+          "id": "https://github.com/jonthethan/MadinatAlZahra/iiif/rotating-capital/canvas/ezgif-frame-033",
           "type": "Canvas"
         },
         {
-          "id": "http://localhost:8080/iiif/rotating-capital/canvas/ezgif-frame-035",
+          "id": "https://github.com/jonthethan/MadinatAlZahra/iiif/rotating-capital/canvas/ezgif-frame-035",
           "type": "Canvas"
         },
         {
-          "id": "http://localhost:8080/iiif/rotating-capital/canvas/ezgif-frame-038",
+          "id": "https://github.com/jonthethan/MadinatAlZahra/iiif/rotating-capital/canvas/ezgif-frame-038",
           "type": "Canvas"
         },
         {
-          "id": "http://localhost:8080/iiif/rotating-capital/canvas/ezgif-frame-040",
+          "id": "https://github.com/jonthethan/MadinatAlZahra/iiif/rotating-capital/canvas/ezgif-frame-040",
           "type": "Canvas"
         },
         {
-          "id": "http://localhost:8080/iiif/rotating-capital/canvas/ezgif-frame-043",
+          "id": "https://github.com/jonthethan/MadinatAlZahra/iiif/rotating-capital/canvas/ezgif-frame-043",
           "type": "Canvas"
         },
         {
-          "id": "http://localhost:8080/iiif/rotating-capital/canvas/ezgif-frame-045",
+          "id": "https://github.com/jonthethan/MadinatAlZahra/iiif/rotating-capital/canvas/ezgif-frame-045",
           "type": "Canvas"
         },
         {
-          "id": "http://localhost:8080/iiif/rotating-capital/canvas/ezgif-frame-048",
+          "id": "https://github.com/jonthethan/MadinatAlZahra/iiif/rotating-capital/canvas/ezgif-frame-048",
           "type": "Canvas"
         },
         {
-          "id": "http://localhost:8080/iiif/rotating-capital/canvas/ezgif-frame-050",
+          "id": "https://github.com/jonthethan/MadinatAlZahra/iiif/rotating-capital/canvas/ezgif-frame-050",
           "type": "Canvas"
         },
         {
-          "id": "http://localhost:8080/iiif/rotating-capital/canvas/ezgif-frame-053",
+          "id": "https://github.com/jonthethan/MadinatAlZahra/iiif/rotating-capital/canvas/ezgif-frame-053",
           "type": "Canvas"
         },
         {
-          "id": "http://localhost:8080/iiif/rotating-capital/canvas/ezgif-frame-055",
+          "id": "https://github.com/jonthethan/MadinatAlZahra/iiif/rotating-capital/canvas/ezgif-frame-055",
           "type": "Canvas"
         },
         {
-          "id": "http://localhost:8080/iiif/rotating-capital/canvas/ezgif-frame-058",
+          "id": "https://github.com/jonthethan/MadinatAlZahra/iiif/rotating-capital/canvas/ezgif-frame-058",
           "type": "Canvas"
         },
         {
-          "id": "http://localhost:8080/iiif/rotating-capital/canvas/ezgif-frame-060",
+          "id": "https://github.com/jonthethan/MadinatAlZahra/iiif/rotating-capital/canvas/ezgif-frame-060",
           "type": "Canvas"
         },
         {
-          "id": "http://localhost:8080/iiif/rotating-capital/canvas/ezgif-frame-063",
+          "id": "https://github.com/jonthethan/MadinatAlZahra/iiif/rotating-capital/canvas/ezgif-frame-063",
           "type": "Canvas"
         },
         {
-          "id": "http://localhost:8080/iiif/rotating-capital/canvas/ezgif-frame-065",
+          "id": "https://github.com/jonthethan/MadinatAlZahra/iiif/rotating-capital/canvas/ezgif-frame-065",
           "type": "Canvas"
         },
         {
-          "id": "http://localhost:8080/iiif/rotating-capital/canvas/ezgif-frame-068",
+          "id": "https://github.com/jonthethan/MadinatAlZahra/iiif/rotating-capital/canvas/ezgif-frame-068",
           "type": "Canvas"
         },
         {
-          "id": "http://localhost:8080/iiif/rotating-capital/canvas/ezgif-frame-070",
+          "id": "https://github.com/jonthethan/MadinatAlZahra/iiif/rotating-capital/canvas/ezgif-frame-070",
           "type": "Canvas"
         },
         {
-          "id": "http://localhost:8080/iiif/rotating-capital/canvas/ezgif-frame-073",
+          "id": "https://github.com/jonthethan/MadinatAlZahra/iiif/rotating-capital/canvas/ezgif-frame-073",
           "type": "Canvas"
         },
         {
-          "id": "http://localhost:8080/iiif/rotating-capital/canvas/ezgif-frame-075",
+          "id": "https://github.com/jonthethan/MadinatAlZahra/iiif/rotating-capital/canvas/ezgif-frame-075",
           "type": "Canvas"
         },
         {
-          "id": "http://localhost:8080/iiif/rotating-capital/canvas/ezgif-frame-078",
+          "id": "https://github.com/jonthethan/MadinatAlZahra/iiif/rotating-capital/canvas/ezgif-frame-078",
           "type": "Canvas"
         },
         {
-          "id": "http://localhost:8080/iiif/rotating-capital/canvas/ezgif-frame-080",
+          "id": "https://github.com/jonthethan/MadinatAlZahra/iiif/rotating-capital/canvas/ezgif-frame-080",
           "type": "Canvas"
         },
         {
-          "id": "http://localhost:8080/iiif/rotating-capital/canvas/ezgif-frame-083",
+          "id": "https://github.com/jonthethan/MadinatAlZahra/iiif/rotating-capital/canvas/ezgif-frame-083",
           "type": "Canvas"
         },
         {
-          "id": "http://localhost:8080/iiif/rotating-capital/canvas/ezgif-frame-085",
+          "id": "https://github.com/jonthethan/MadinatAlZahra/iiif/rotating-capital/canvas/ezgif-frame-085",
           "type": "Canvas"
         },
         {
-          "id": "http://localhost:8080/iiif/rotating-capital/canvas/ezgif-frame-088",
+          "id": "https://github.com/jonthethan/MadinatAlZahra/iiif/rotating-capital/canvas/ezgif-frame-088",
           "type": "Canvas"
         },
         {
-          "id": "http://localhost:8080/iiif/rotating-capital/canvas/ezgif-frame-090",
+          "id": "https://github.com/jonthethan/MadinatAlZahra/iiif/rotating-capital/canvas/ezgif-frame-090",
           "type": "Canvas"
         },
         {
-          "id": "http://localhost:8080/iiif/rotating-capital/canvas/ezgif-frame-093",
+          "id": "https://github.com/jonthethan/MadinatAlZahra/iiif/rotating-capital/canvas/ezgif-frame-093",
           "type": "Canvas"
         },
         {
-          "id": "http://localhost:8080/iiif/rotating-capital/canvas/ezgif-frame-095",
+          "id": "https://github.com/jonthethan/MadinatAlZahra/iiif/rotating-capital/canvas/ezgif-frame-095",
           "type": "Canvas"
         },
         {
-          "id": "http://localhost:8080/iiif/rotating-capital/canvas/ezgif-frame-098",
+          "id": "https://github.com/jonthethan/MadinatAlZahra/iiif/rotating-capital/canvas/ezgif-frame-098",
           "type": "Canvas"
         },
         {
-          "id": "http://localhost:8080/iiif/rotating-capital/canvas/ezgif-frame-100",
+          "id": "https://github.com/jonthethan/MadinatAlZahra/iiif/rotating-capital/canvas/ezgif-frame-100",
           "type": "Canvas"
         }
       ],
