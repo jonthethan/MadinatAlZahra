@@ -1,21 +1,18 @@
 ---
-title: Dispersed Capitals
+title: Mapping Dispersed Capitals
 layout: essay
 order: 50
 ---
 
-## Purpose
-This is the most ambitious and forward-looking section of the publication. It establishes the Quire publication as the foundation for a growing digital database of dispersed Madinat al-Zahrāʾ capitals held in collections worldwide. Each capital in the database gets its own catalogue entry page. This section will grow as the project expands.
+Madinat al-Zahrāʾ survives today in fragments — and those fragments are everywhere. When civil war engulfed the caliphate in the fitna of 1009–1010, the palace-city was sacked and burned, and for centuries afterward its ruins served as a quarry[cite: 1]. Capitals, column shafts, and carved panels were carried off and given new lives: reused in churches and palaces across Spain, incorporated into buildings in North Africa, and eventually scattered through private collections and, in the nineteenth and twentieth centuries, acquired by museums across Europe and the Americas[cite: 1]. The Meadows capital is one node in this vast diaspora of marble[cite: 1]. Every dispersed fragment carries a piece of the city's history with it — evidence of workshop practice, carving technique, epigraphic programs, and the shifting tastes and markets that moved caliphal stone across a millennium and around the globe[cite: 1].
 
-Overview Essay Content
-▸	Why are the capitals dispersed? After the sack of 1009–1010, the site was quarried for centuries — capitals were reused in churches, palaces, and private collections across Spain, North Africa, and Europe, or acquired by museums in the 19th–20th centuries.
-▸	Current state of scholarship: Bugella Altamirano (2018) on Cordoban capitals in the Museo Arqueológico Nacional; Cressier (c.2007) on caliphal workshops and provincial distribution of capitals.
-▸	The database mission: to reunite these dispersed fragments digitally — enabling comparative study of dimensions, carving style, workshop attribution, and inscription content across collections.
-▸	How to contribute: invite scholars and institutions to share data and images — include a contact or submission mechanism (link to a Google Form or email address).
+This section is the most ambitious and forward-looking part of the publication: the foundation for a growing digital database of dispersed Madinat al-Zahrāʾ capitals held in collections worldwide[cite: 1]. Its purpose is to reunite, digitally, what history has scattered[cite: 1]. By cataloguing capitals across collections — each with its own entry recording dimensions, carving style, condition, inscription content, and provenance — the database will enable the kind of comparative study that dispersal has long made difficult: tracing workshop attributions across borders, comparing epigraphic programs between fragments now separated by oceans, and mapping the routes by which caliphal marble traveled from Córdoba's hinterland to the world's museums[cite: 1]. In doing so, the project builds on a foundation of important scholarship, including Bugella Altamirano's study (2018) of the Cordoban capitals in the Museo Arqueológico Nacional in Madrid and Cressier's work on caliphal workshops and the provincial distribution of capitals, while extending that scholarship into a shared, cumulative digital resource[cite: 1].
 
-## 5a — Madinat al-Zahra Capital Locations Around the World
-▸ This embedded storymap created with ArcGIS shows the locations of the many capitals around the world.
-▸ Todo: update pictures and make sure image permissions are good! (in arcgis storymaps, not here)
+Crucially, this is a living catalogue[cite: 1]. The entries published here represent the beginning, not the end, of the undertaking: the team is actively researching and adding fragments as they are identified and documented, and this section will continue to grow with the project[cite: 1]. We warmly invite scholars, curators, and institutions who hold — or know of — capitals and architectural fragments from Madinat al-Zahrāʾ to contribute data and images to the database[cite: 1]. To share information or propose an addition, please contact the project team at [email address / submission form link][cite: 1]. Every contribution helps restore a measure of coherence to one of the great dispersed monuments of the medieval Mediterranean[cite: 1].
+
+### Madinat al-Zahrāʾ Capital Locations Around the World
+
+The map below, built with ArcGIS StoryMaps, plots the locations of known capitals from Madinat al-Zahrāʾ in collections around the world[cite: 1]. Together, the points trace the afterlife of the caliphal city: a single site's sculptural program redistributed across continents[cite: 1]. Click on any location to see the capital held there and learn more about its journey[cite: 1]. Like the database it accompanies, this map is continually updated as new fragments are catalogued[cite: 1].
 
 <div class="full-width-map">
   <iframe src="https://storymaps.arcgis.com/stories/93e49ca3cb034a728f1b4e7c81baa059?cover=false" width="100%" height="500px" frameborder="0" allowfullscreen allow="geolocation"></iframe>

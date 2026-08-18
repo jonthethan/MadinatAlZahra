@@ -125,6 +125,15 @@ contributor:
     bio: "Dallin Evans is a PhD candidate at Rice University specializing in Caliphal architecture in tenth-century Islamic Spain. Trained as a practicing architect, he uses his expertise to analyze his areas of research. While earning his master’s in architecture, he studied Renaissance and Classical art and architecture at Syracuse University’s Florence campus, where he also curated several exhibitions. More recently, he has collaborated with Glair Anderson in the DLIVCC by creating digital models of archaeological findings at al-Rummaniyya, a villa near Cordoba Spain. Additionally, he has created drawings in publications for his advisors Farshid Emami and Sophie Crawford-Brown. As the 2024-25 Camfield Fellow at the Museum of Fine Art Houston, he created digital animations to accompany objects in the museum’s Islamic galleries. He recently co-organized a graduate conference on materiality at Rice, and a yearlong series of programs for “Archeology Now” on al-Andalus. He has presented his work at conferences across North America and Europe, supported by departmental and external awards."
     url:
     image: contributors/dallinevans.png
+  - id: cvaille
+    type: primary
+    first_name: Ciaran
+    last_name: Vaille
+    title: Engineer & Publication Developer
+    affiliation: Edith O'Donnel Institute of Art History, UT Dallas
+    bio: "Ciaran Vaille is a computer science PhD student at UT Dallas, where he previously earned his B.S. in Computer Science in May 2025. He has a strong background in academic research, beginning in Spring 2025 as an REU student conducting algorithms research under Dr. Benjamin Raichel. From Summer 2025 to Spring 2026, he served as a Teaching Assistant and partnered with Dr. Shuang Hao on AI cybersecurity research, focusing on large language model safety alignment, prompt injection vulnerabilities, and static analysis tools. In Fall 2026, Ciaran will return to Dr. Raichel's lab as a Teaching Assistant to pursue research in computational geometry and algorithms. Beyond his computer science focus, his contribution to this publication stems from a close academic friendship with Dr. Ali Asgar Alibhai, developed after earning excellent grades as an outspoken and highly engaged student in two of Dr. Alibhai's Art History courses. He has worked with Jonathan to design and program this publication."
+    url: https://www.linkedin.com/in/ciaranvaille/
+    image: contributors/ciaranvaille.jpg
     
 # ------------------------------------------------------------------------------
 # Copright & License

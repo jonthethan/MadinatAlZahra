@@ -39,3 +39,12 @@ object_list:
       - id: "cat-2"
       - id: "cat-2-b"
       - id: "cat-2-c"
+
+  - id: capital-meadows
+    title: Capital from Madinat al-Zahrāʾ
+    artist: Unknown maker
+    year: c. 965
+    medium: Carved marble
+    collection: Meadows Museum, SMU, Dallas
+    accession_number: MM.96.01
+    credit_line: Museum purchase, Meadows Museum Acquisition Fund
